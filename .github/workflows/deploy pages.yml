@@ -30,4 +30,5 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Actions"
+          echo "//registry.npmjs.org/:_authToken=${GH_TOKEN}" > ~/.npmrc
           npm run deploy
