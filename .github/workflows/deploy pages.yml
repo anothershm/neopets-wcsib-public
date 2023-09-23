@@ -1,9 +1,9 @@
 name: Deploy to GitHub Pages
 
-on:
-  push:
-    branches:
-      - main
+on: workflow_dispatch
+  #push:
+    #branches:
+      #- main
 
 jobs:
   deploy:
@@ -25,10 +25,7 @@ jobs:
         run: npm run build
 
       - name: Deploy to GitHub Pages
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Actions"
-          echo "//registry.npmjs.org/:_authToken=${GH_TOKEN}" > ~/.npmrc
-          npm run deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
