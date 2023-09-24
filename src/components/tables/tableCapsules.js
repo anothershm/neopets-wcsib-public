@@ -11,7 +11,7 @@ export const TableCapsules = ({ changeTable, tableData }) => {
         header: 'Image',
         size: 20,
         Cell: ({ cell }) =>
-          <div style={{ width: '100px' }}> {/* Adjust the width as needed */}
+          <div style={{ width: '80px' }}> {/* Adjust the width as needed */}
             <img
               src={cell.row.original.img}
               alt={cell.row.original.name}
