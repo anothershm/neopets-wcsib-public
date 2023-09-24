@@ -11,12 +11,13 @@ export const TableCapsules = ({ changeTable, tableData }) => {
         header: 'Image',
         size: 20,
         Cell: ({ cell }) =>
-          <img
-            src={
-              cell.row.original.img}
-            alt={`${cell.row.original.name}`}
-            style={{ width: '80%', height: 'auto' }}
-          />
+          <div style={{ width: '100px' }}> {/* Adjust the width as needed */}
+            <img
+              src={cell.row.original.img}
+              alt={cell.row.original.name}
+              style={{ width: '100%', height: 'auto' }}
+            />
+          </div>
       },
       {
         accessorKey: 'name',

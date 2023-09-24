@@ -15,3 +15,18 @@ header h1 {
     1px 20px 30px rgba(16, 16, 16, 0.3),
     1px 25px 50px rgba(16, 16, 16, 0.2);
 }
+
+footer {
+  color: #737373;
+  font-size: .75rem;
+  padding: 1.25rem 1rem;
+  text-align: center;
+}
+
+
+p {
+  color: #737373;
+  font-size: 1rem;
+  text-align: center;
+}
+
