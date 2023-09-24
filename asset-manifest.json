@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/neopets-wcsib-public/static/css/main.71081315.css",
-    "main.js": "/neopets-wcsib-public/static/js/main.16121206.js",
+    "main.css": "/neopets-wcsib-public/static/css/main.de8a02b6.css",
+    "main.js": "/neopets-wcsib-public/static/js/main.325283ee.js",
     "static/js/496.546f6926.chunk.js": "/neopets-wcsib-public/static/js/496.546f6926.chunk.js",
     "index.html": "/neopets-wcsib-public/index.html",
-    "main.71081315.css.map": "/neopets-wcsib-public/static/css/main.71081315.css.map",
-    "main.16121206.js.map": "/neopets-wcsib-public/static/js/main.16121206.js.map",
+    "main.de8a02b6.css.map": "/neopets-wcsib-public/static/css/main.de8a02b6.css.map",
+    "main.325283ee.js.map": "/neopets-wcsib-public/static/js/main.325283ee.js.map",
     "496.546f6926.chunk.js.map": "/neopets-wcsib-public/static/js/496.546f6926.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71081315.css",
-    "static/js/main.16121206.js"
+    "static/css/main.de8a02b6.css",
+    "static/js/main.325283ee.js"
   ]
 }
