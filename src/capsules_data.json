@@ -306,8 +306,8 @@
             {
                 "name": "Mutant Blue Glowing Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_mutantcontacts.gif",
-                "seeking": 5,
-                "offering": 106,
+                "seeking": 6,
+                "offering": 107,
                 "score": 101,
                 "buyable": "no",
                 "owls": "1-2"
@@ -315,8 +315,8 @@
             {
                 "name": "Mutant Faellie Handheld Plushie",
                 "img": "https://images.neopets.com/items/mall_hh_mutantplushie.gif",
-                "seeking": 11,
-                "offering": 51,
+                "seeking": 10,
+                "offering": 50,
                 "score": 40,
                 "buyable": "no",
                 "owls": "1-2"
@@ -334,35 +334,35 @@
                 "name": "Mutant Gothic Embroidered Shirt",
                 "img": "https://images.neopets.com/items/mall_clo_mutantshirt.gif",
                 "seeking": 1,
-                "offering": 68,
-                "score": 67,
+                "offering": 67,
+                "score": 66,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Mutant Stylish Jet Black Wig",
                 "img": "https://images.neopets.com/items/mall_acc_mutantblackemo.gif",
-                "seeking": 4,
+                "seeking": 5,
                 "offering": 67,
-                "score": 63,
+                "score": 62,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Mutant Top Hat",
                 "img": "https://images.neopets.com/items/mall_acc_mutanthat.gif",
-                "seeking": 3,
+                "seeking": 4,
                 "offering": 47,
-                "score": 44,
+                "score": 43,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Escaped From the Lab Background",
                 "img": "https://images.neopets.com/items/mall_bg_brokentube.gif",
-                "seeking": 2,
+                "seeking": 3,
                 "offering": 256,
-                "score": 254,
+                "score": 253,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -397,8 +397,8 @@
                 "name": "Champions Fur Bracers",
                 "img": "https://images.neopets.com/items/mall_acc_furbracers.gif",
                 "seeking": 3,
-                "offering": 58,
-                "score": 55,
+                "offering": 59,
+                "score": 56,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -414,9 +414,9 @@
             {
                 "name": "Valiant Champion Boots",
                 "img": "https://images.neopets.com/items/mall_shoes_furboots.gif",
-                "seeking": 0,
-                "offering": 0,
-                "score": 0,
+                "seeking": 2,
+                "offering": 51,
+                "score": 49,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -424,26 +424,26 @@
                 "name": "Valiant Champion Shoulder Armour",
                 "img": "https://images.neopets.com/items/mall_acc_metalshoulder.gif",
                 "seeking": 0,
-                "offering": 0,
-                "score": 0,
+                "offering": 42,
+                "score": 42,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Valiant Champion Warpaint",
                 "img": "https://images.neopets.com/items/mall_acc_warfp.gif",
-                "seeking": 0,
-                "offering": 0,
-                "score": 0,
+                "seeking": 5,
+                "offering": 31,
+                "score": 26,
                 "buyable": "no",
                 "owls": "2"
             },
             {
                 "name": "Valiant Sail Wings",
                 "img": "https://images.neopets.com/items/mall_wings_onewing.gif",
-                "seeking": 0,
-                "offering": 0,
-                "score": 0,
+                "seeking": 1,
+                "offering": 42,
+                "score": 41,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -451,26 +451,26 @@
                 "name": "Braided Champions Helm",
                 "img": "https://images.neopets.com/items/mall_acc_drahelmet.gif",
                 "seeking": 0,
-                "offering": 0,
-                "score": 0,
+                "offering": 32,
+                "score": 32,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Champions Dragoyle Shield",
                 "img": "https://images.neopets.com/items/mall_hh_scaleshield.gif",
-                "seeking": 0,
-                "offering": 0,
-                "score": 0,
+                "seeking": 6,
+                "offering": 25,
+                "score": 19,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Valiant Champion Coat",
                 "img": "https://images.neopets.com/items/mall_coat_fur.gif",
-                "seeking": 0,
-                "offering": 0,
-                "score": 0,
+                "seeking": 9,
+                "offering": 12,
+                "score": 3,
                 "buyable": "no",
                 "owls": "1-2"
             }
