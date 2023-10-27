@@ -27,9 +27,9 @@
             {
                 "name": "Autumn Leaf Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_leafcontact.gif",
-                "seeking": 7,
-                "offering": 167,
-                "score": 160,
+                "seeking": 5,
+                "offering": 170,
+                "score": 165,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -37,8 +37,8 @@
                 "name": "Baby Pink Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_pinkbabycontacts.gif",
                 "seeking": 2,
-                "offering": 200,
-                "score": 198,
+                "offering": 199,
+                "score": 197,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -46,25 +46,25 @@
                 "name": "Baby Zomutt Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_zomuttcontacts.gif",
                 "seeking": 7,
-                "offering": 178,
-                "score": 171,
+                "offering": 175,
+                "score": 168,
                 "buyable": "no",
                 "owls": "2"
             },
             {
                 "name": "Big Doll Eyes Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_largedolleyes.gif",
-                "seeking": 28,
-                "offering": 154,
-                "score": 126,
+                "seeking": 29,
+                "offering": 159,
+                "score": 130,
                 "buyable": "no",
                 "owls": "3-4"
             },
             {
                 "name": "Birthday Kawaii Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_kawaiicontacts.gif",
-                "seeking": 66,
-                "offering": 140,
+                "seeking": 63,
+                "offering": 137,
                 "score": 74,
                 "buyable": "no",
                 "owls": "1-2"
@@ -72,54 +72,54 @@
             {
                 "name": "Black Button Contacts",
                 "img": "https://images.neopets.com/items/clo_black_button_contacts.gif",
-                "seeking": 30,
-                "offering": 98,
-                "score": 68,
+                "seeking": 33,
+                "offering": 105,
+                "score": 72,
                 "buyable": "no",
-                "owls": "3"
+                "owls": "2-4"
             },
             {
                 "name": "Black Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_blackedcontacts.gif",
-                "seeking": 12,
-                "offering": 133,
-                "score": 121,
+                "seeking": 13,
+                "offering": 135,
+                "score": 122,
                 "buyable": "no",
                 "owls": "2-3"
             },
             {
                 "name": "Black Veined Contacts and Makeup",
                 "img": "https://images.neopets.com/items/mall_eye__blackvein.gif",
-                "seeking": 13,
-                "offering": 164,
-                "score": 151,
+                "seeking": 12,
+                "offering": 168,
+                "score": 156,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Changing Moon Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_mooneyecontacts.gif",
-                "seeking": 9,
-                "offering": 140,
-                "score": 131,
+                "seeking": 10,
+                "offering": 143,
+                "score": 133,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Closed Eye Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_closedeye.gif",
-                "seeking": 64,
+                "seeking": 61,
                 "offering": 186,
-                "score": 122,
+                "score": 125,
                 "buyable": "no",
                 "owls": "5-7"
             },
             {
                 "name": "Contacts of the Cosmos",
                 "img": "https://images.neopets.com/items/mall_starcookie_contacts.gif",
-                "seeking": 16,
-                "offering": 132,
-                "score": 116,
+                "seeking": 15,
+                "offering": 135,
+                "score": 120,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -127,8 +127,8 @@
                 "name": "Crazed Spellcaster Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_crazyeyes.gif",
                 "seeking": 7,
-                "offering": 140,
-                "score": 133,
+                "offering": 143,
+                "score": 136,
                 "buyable": "no",
                 "owls": "2-3"
             },
@@ -136,16 +136,16 @@
                 "name": "Creepy Purple Contacts",
                 "img": "https://images.neopets.com/items/mall_spiral_contacts.gif",
                 "seeking": 7,
-                "offering": 117,
-                "score": 110,
+                "offering": 118,
+                "score": 111,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Dark Blue Contacts",
                 "img": "https://images.neopets.com/items/mall_blum_darkbluecontacts.gif",
-                "seeking": 7,
-                "offering": 143,
+                "seeking": 6,
+                "offering": 142,
                 "score": 136,
                 "buyable": "no",
                 "owls": "-"
@@ -154,26 +154,26 @@
                 "name": "Dyeworks Black: Lifeless Mutant Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_mutantcontacts_black.gif",
                 "seeking": 10,
-                "offering": 115,
-                "score": 105,
+                "offering": 116,
+                "score": 106,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Dyeworks Blue: Baby Pink Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_pinkbabycontacts_blue.gif",
-                "seeking": 10,
-                "offering": 104,
-                "score": 94,
+                "seeking": 11,
+                "offering": 109,
+                "score": 98,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Dyeworks Blue: Holiday Light Contacts",
                 "img": "https://images.neopets.com/items/mall_contacts_blueholidaylight.gif",
-                "seeking": 41,
-                "offering": 108,
-                "score": 67,
+                "seeking": 40,
+                "offering": 104,
+                "score": 64,
                 "buyable": "no",
                 "owls": "3-4"
             },
@@ -181,16 +181,16 @@
                 "name": "Dyeworks Brown: Baby Pink Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_pinkbabycontacts_brow.gif",
                 "seeking": 10,
-                "offering": 140,
-                "score": 130,
+                "offering": 141,
+                "score": 131,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Dyeworks Brown: Lifeless Mutant Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_mutantcontacts_brown.gif",
-                "seeking": 7,
-                "offering": 124,
+                "seeking": 9,
+                "offering": 126,
                 "score": 117,
                 "buyable": "no",
                 "owls": "1-2"
@@ -199,19 +199,19 @@
                 "name": "Dyeworks Brown: Smiling Eyes Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_smilingeyes_brwn.gif",
                 "seeking": 30,
-                "offering": 238,
-                "score": 208,
+                "offering": 241,
+                "score": 211,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Dyeworks Gold: Holiday Light Contacts",
                 "img": "https://images.neopets.com/items/mall_contacts_goldholidaylight.gif",
-                "seeking": 40,
-                "offering": 109,
-                "score": 69,
+                "seeking": 38,
+                "offering": 108,
+                "score": 70,
                 "buyable": "no",
-                "owls": "4-5"
+                "owls": "3-4"
             },
             {
                 "name": "Dyeworks Green: Baby Pink Contacts",
@@ -225,9 +225,9 @@
             {
                 "name": "Dyeworks Green: Big Doll Eyes Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_bigdoll_green.gif",
-                "seeking": 14,
-                "offering": 137,
-                "score": 123,
+                "seeking": 13,
+                "offering": 135,
+                "score": 122,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -235,8 +235,8 @@
                 "name": "Dyeworks Green: Holiday Light Contacts",
                 "img": "https://images.neopets.com/items/mall_contacts_greenholidayligh.gif",
                 "seeking": 34,
-                "offering": 130,
-                "score": 96,
+                "offering": 128,
+                "score": 94,
                 "buyable": "no",
                 "owls": "4-5"
             },
@@ -244,8 +244,8 @@
                 "name": "Dyeworks Green: Lifeless Mutant Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_mutantcontacts_green.gif",
                 "seeking": 14,
-                "offering": 107,
-                "score": 93,
+                "offering": 108,
+                "score": 94,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -253,53 +253,53 @@
                 "name": "Dyeworks Green: Maraquan Ocean Blue Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_ocbluemaracnt_grn.gif",
                 "seeking": 4,
-                "offering": 173,
-                "score": 169,
+                "offering": 170,
+                "score": 166,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Dyeworks Green: Mutant Blue Glowing Contacts",
                 "img": "https://images.neopets.com/items/mall_contacts_mutantgreen.gif",
-                "seeking": 8,
-                "offering": 144,
-                "score": 136,
+                "seeking": 9,
+                "offering": 146,
+                "score": 137,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Dyeworks Lavender: Big Doll Eyes Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_bigdoll_lav.gif",
-                "seeking": 17,
+                "seeking": 18,
                 "offering": 142,
-                "score": 125,
+                "score": 124,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Dyeworks Lavender: Smiling Eyes Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_smilingeyes_lavndr.gif",
-                "seeking": 27,
+                "seeking": 25,
                 "offering": 239,
-                "score": 212,
+                "score": 214,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Dyeworks Pink: Big Doll Eyes Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_bigdoll_pink.gif",
-                "seeking": 17,
-                "offering": 140,
-                "score": 123,
+                "seeking": 16,
+                "offering": 141,
+                "score": 125,
                 "buyable": "no",
                 "owls": "2"
             },
             {
                 "name": "Dyeworks Pink: Holiday Light Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_holidaycontactpink.gif",
-                "seeking": 19,
-                "offering": 214,
-                "score": 195,
+                "seeking": 18,
+                "offering": 215,
+                "score": 197,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -307,43 +307,43 @@
                 "name": "Dyeworks Pink: Mutant Blue Glowing Contacts",
                 "img": "https://images.neopets.com/items/mall_contacts_mutantpink.gif",
                 "seeking": 5,
-                "offering": 143,
-                "score": 138,
+                "offering": 142,
+                "score": 137,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Dyeworks Purple: Holiday Light Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_holidaycontactlilac.gif",
-                "seeking": 20,
-                "offering": 209,
-                "score": 189,
+                "seeking": 21,
+                "offering": 211,
+                "score": 190,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Dyeworks Purple: Maraquan Ocean Blue Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_ocbluemaracnt_lav.gif",
-                "seeking": 3,
-                "offering": 164,
-                "score": 161,
+                "seeking": 4,
+                "offering": 166,
+                "score": 162,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Dyeworks Red: Mutant Blue Glowing Contacts",
                 "img": "https://images.neopets.com/items/mall_contacts_mutantred.gif",
-                "seeking": 8,
-                "offering": 138,
-                "score": 130,
+                "seeking": 9,
+                "offering": 137,
+                "score": 128,
                 "buyable": "no",
                 "owls": "3-5"
             },
             {
                 "name": "Dyeworks Silver: Holiday Light Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_holidaycontactsilver.gif",
-                "seeking": 15,
-                "offering": 235,
+                "seeking": 14,
+                "offering": 234,
                 "score": 220,
                 "buyable": "no",
                 "owls": "1-2"
@@ -352,62 +352,62 @@
                 "name": "Dyeworks Silver: Maraquan Ocean Blue Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_ocbluemaracnt_sil.gif",
                 "seeking": 3,
-                "offering": 154,
-                "score": 151,
+                "offering": 153,
+                "score": 150,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Dyeworks White: Smiling Eyes Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_smilingeyes_white.gif",
-                "seeking": 21,
-                "offering": 254,
-                "score": 233,
+                "seeking": 18,
+                "offering": 253,
+                "score": 235,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Ethereal Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_etherealcontacts.gif",
-                "seeking": 20,
-                "offering": 213,
-                "score": 193,
+                "seeking": 16,
+                "offering": 216,
+                "score": 200,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Faerie Wings Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_faerie_contacts.gif",
-                "seeking": 4,
-                "offering": 126,
-                "score": 122,
+                "seeking": 3,
+                "offering": 128,
+                "score": 125,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Falling Snow Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_snowfallcontacts.gif",
-                "seeking": 3,
-                "offering": 156,
-                "score": 153,
+                "seeking": 4,
+                "offering": 158,
+                "score": 154,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Fiery Sun Contacts",
                 "img": "https://images.neopets.com/items/mall_acwk4_suncontacts.gif",
-                "seeking": 14,
-                "offering": 104,
-                "score": 90,
+                "seeking": 13,
+                "offering": 111,
+                "score": 98,
                 "buyable": "no",
                 "owls": "3-4"
             },
             {
                 "name": "Frosty Eyes Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_contacts_frosty.gif",
-                "seeking": 12,
+                "seeking": 13,
                 "offering": 100,
-                "score": 88,
+                "score": 87,
                 "buyable": "no",
                 "owls": "3-5"
             },
@@ -415,8 +415,8 @@
                 "name": "Glittery Blue Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_glittercontacts_blue.gif",
                 "seeking": 13,
-                "offering": 197,
-                "score": 184,
+                "offering": 202,
+                "score": 189,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -424,17 +424,17 @@
                 "name": "Glowing Blue Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_glowingcontacts.gif",
                 "seeking": 15,
-                "offering": 100,
-                "score": 85,
+                "offering": 99,
+                "score": 84,
                 "buyable": "no",
                 "owls": "3-4"
             },
             {
                 "name": "Holiday Light Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_holidaycontact.gif",
-                "seeking": 14,
-                "offering": 220,
-                "score": 206,
+                "seeking": 15,
+                "offering": 218,
+                "score": 203,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -442,8 +442,8 @@
                 "name": "Hypnotic Purple Swirl Contacts",
                 "img": "https://images.neopets.com/items/mall_pyl_purpswirlcontacts.gif",
                 "seeking": 10,
-                "offering": 137,
-                "score": 127,
+                "offering": 139,
+                "score": 129,
                 "buyable": "no",
                 "owls": "2"
             },
@@ -451,17 +451,17 @@
                 "name": "Kaleidoscope Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_kaleidoscopecontact.gif",
                 "seeking": 1,
-                "offering": 120,
-                "score": 119,
+                "offering": 119,
+                "score": 118,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Lifeless Mutant Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_blackmutantcontacts.gif",
-                "seeking": 13,
+                "seeking": 15,
                 "offering": 128,
-                "score": 115,
+                "score": 113,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -469,17 +469,17 @@
                 "name": "Maraquan Ocean Blue Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_oceanbluemaracontact.gif",
                 "seeking": 3,
-                "offering": 180,
-                "score": 177,
+                "offering": 182,
+                "score": 179,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Moonlit Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_mooncontacts.gif",
-                "seeking": 10,
-                "offering": 106,
-                "score": 96,
+                "seeking": 9,
+                "offering": 108,
+                "score": 99,
                 "buyable": "no",
                 "owls": "2"
             },
@@ -487,26 +487,26 @@
                 "name": "Mutant Blue Glowing Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_mutantcontacts.gif",
                 "seeking": 6,
-                "offering": 110,
-                "score": 104,
+                "offering": 109,
+                "score": 103,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Mutant Foggy White Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_mutant_wcontacts.gif",
-                "seeking": 17,
+                "seeking": 18,
                 "offering": 132,
-                "score": 115,
+                "score": 114,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Nebula Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_nebulacontacts.gif",
-                "seeking": 7,
-                "offering": 114,
-                "score": 107,
+                "seeking": 6,
+                "offering": 118,
+                "score": 112,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -514,16 +514,16 @@
                 "name": "Night Vision Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_mooncontact.gif",
                 "seeking": 31,
-                "offering": 95,
-                "score": 64,
+                "offering": 94,
+                "score": 63,
                 "buyable": "no",
-                "owls": "3"
+                "owls": "2-4"
             },
             {
                 "name": "Niptor Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_yellowbobcatcontacts.gif",
-                "seeking": 6,
-                "offering": 115,
+                "seeking": 7,
+                "offering": 116,
                 "score": 109,
                 "buyable": "no",
                 "owls": "1-2"
@@ -532,26 +532,26 @@
                 "name": "Painted Flower Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_neggcontacts.gif",
                 "seeking": 4,
-                "offering": 175,
-                "score": 171,
+                "offering": 178,
+                "score": 174,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Pink Lulu Contacts",
                 "img": "https://images.neopets.com/items/mall_contacts_pink.gif",
-                "seeking": 49,
-                "offering": 115,
-                "score": 66,
+                "seeking": 51,
+                "offering": 116,
+                "score": 65,
                 "buyable": "no",
-                "owls": "6-7"
+                "owls": "4-6"
             },
             {
                 "name": "Poisonous Purple and Green Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_contacts_pandgj.gif",
                 "seeking": 6,
-                "offering": 89,
-                "score": 83,
+                "offering": 90,
+                "score": 84,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -559,17 +559,17 @@
                 "name": "Radiant Maraquan Purple Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_glowingpurplecontacts.gif",
                 "seeking": 4,
-                "offering": 236,
-                "score": 232,
+                "offering": 243,
+                "score": 239,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Rainbow Colour Changing Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_colorchangecontacts.gif",
-                "seeking": 10,
-                "offering": 95,
-                "score": 85,
+                "seeking": 6,
+                "offering": 96,
+                "score": 90,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -577,71 +577,71 @@
                 "name": "Red Contacts",
                 "img": "https://images.neopets.com/items/mall_dice_redcontacts.gif",
                 "seeking": 17,
-                "offering": 104,
-                "score": 87,
+                "offering": 102,
+                "score": 85,
                 "buyable": "no",
                 "owls": "3-4"
             },
             {
                 "name": "Ruby Red Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_rubyeye.gif",
-                "seeking": 4,
-                "offering": 163,
-                "score": 159,
+                "seeking": 5,
+                "offering": 167,
+                "score": 162,
                 "buyable": "no",
                 "owls": "2-3"
             },
             {
                 "name": "Sleepy Baby Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_babysleepeyes.gif",
-                "seeking": 34,
-                "offering": 207,
-                "score": 173,
+                "seeking": 35,
+                "offering": 202,
+                "score": 167,
                 "buyable": "no",
-                "owls": "2-4"
+                "owls": "2-3"
             },
             {
                 "name": "Sleepy Eye Contacts",
                 "img": "https://images.neopets.com/items/clo_sleepy_eyes.gif",
                 "seeking": 20,
-                "offering": 111,
-                "score": 91,
+                "offering": 116,
+                "score": 96,
                 "buyable": "no",
                 "owls": "2-4"
             },
             {
                 "name": "Smiling Eyes Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_smilingeyes.gif",
-                "seeking": 107,
-                "offering": 254,
-                "score": 147,
+                "seeking": 105,
+                "offering": 248,
+                "score": 143,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Snow Yooyu-Inspired Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_snowyooyueyes.gif",
-                "seeking": 28,
-                "offering": 128,
-                "score": 100,
+                "seeking": 29,
+                "offering": 132,
+                "score": 103,
                 "buyable": "no",
-                "owls": "6-10"
+                "owls": "2-4"
             },
             {
                 "name": "Snowflake Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_snowflakecontacts.gif",
                 "seeking": 14,
-                "offering": 125,
-                "score": 111,
+                "offering": 128,
+                "score": 114,
                 "buyable": "no",
                 "owls": "3-4"
             },
             {
                 "name": "Solid White Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_whitecontacts.gif",
-                "seeking": 55,
-                "offering": 110,
-                "score": 55,
+                "seeking": 53,
+                "offering": 109,
+                "score": 56,
                 "buyable": "no",
                 "owls": "4-6"
             },
@@ -649,8 +649,8 @@
                 "name": "Spinning Circuits Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_electriccontacts.gif",
                 "seeking": 8,
-                "offering": 96,
-                "score": 88,
+                "offering": 97,
+                "score": 89,
                 "buyable": "no",
                 "owls": "2-4"
             },
@@ -658,8 +658,8 @@
                 "name": "Spooky Green Contacts",
                 "img": "https://images.neopets.com/items/mall_contacts_green.gif",
                 "seeking": 7,
-                "offering": 149,
-                "score": 142,
+                "offering": 151,
+                "score": 144,
                 "buyable": "no",
                 "owls": "2-3"
             },
@@ -667,8 +667,8 @@
                 "name": "Stained Glass Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_stained_glass_contact.gif",
                 "seeking": 2,
-                "offering": 143,
-                "score": 141,
+                "offering": 146,
+                "score": 144,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -676,26 +676,26 @@
                 "name": "Staring Skulls Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_skull_contacts.gif",
                 "seeking": 20,
-                "offering": 107,
-                "score": 87,
+                "offering": 105,
+                "score": 85,
                 "buyable": "no",
-                "owls": "3-5"
+                "owls": "2-4"
             },
             {
                 "name": "Starry Eyed Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_starryeyecontacts.gif",
-                "seeking": 37,
-                "offering": 214,
-                "score": 177,
+                "seeking": 39,
+                "offering": 213,
+                "score": 174,
                 "buyable": "no",
                 "owls": "2-3"
             },
             {
                 "name": "Stormy Eyes Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_stormcontacts.gif",
-                "seeking": 31,
-                "offering": 101,
-                "score": 70,
+                "seeking": 27,
+                "offering": 103,
+                "score": 76,
                 "buyable": "no",
                 "owls": "5-6"
             },
@@ -711,9 +711,9 @@
             {
                 "name": "Sun Princess Contacts",
                 "img": "https://images.neopets.com/items/mall_acc_contacts_sungssp.gif",
-                "seeking": 10,
-                "offering": 200,
-                "score": 190,
+                "seeking": 11,
+                "offering": 198,
+                "score": 187,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -729,9 +729,9 @@
             {
                 "name": "Zenco the Magnificent Contacts",
                 "img": "https://images.neopets.com/items/mall_dd2011_myncicontacts.gif",
-                "seeking": 61,
-                "offering": 106,
-                "score": 45,
+                "seeking": 60,
+                "offering": 104,
+                "score": 44,
                 "buyable": "no",
                 "owls": "5-6"
             }
@@ -748,17 +748,17 @@
                 "name": "Beaded Pin Skirt",
                 "img": "https://images.neopets.com/items/mall_clo_pinbeadskirt.gif",
                 "seeking": 1,
-                "offering": 37,
-                "score": 36,
+                "offering": 39,
+                "score": 38,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Chalk-Dyed Chiffon Shirt",
                 "img": "https://images.neopets.com/items/mall_clo_chalkchif.gif",
-                "seeking": 1,
-                "offering": 49,
-                "score": 48,
+                "seeking": 2,
+                "offering": 53,
+                "score": 51,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -766,17 +766,17 @@
                 "name": "Colourful Flower Dress",
                 "img": "https://images.neopets.com/items/mall_clo_flower_fabric_dress.gif",
                 "seeking": 15,
-                "offering": 45,
-                "score": 30,
+                "offering": 51,
+                "score": 36,
                 "buyable": "no",
                 "owls": "5-6"
             },
             {
                 "name": "Colourful Yarn Sweater",
                 "img": "https://images.neopets.com/items/mall_clo_yarn_ink_sweater.gif",
-                "seeking": 12,
+                "seeking": 10,
                 "offering": 38,
-                "score": 26,
+                "score": 28,
                 "buyable": "no",
                 "owls": "10-15"
             },
@@ -784,8 +784,8 @@
                 "name": "Dress of Pearls",
                 "img": "https://images.neopets.com/items/mall_clo_pearldress.gif",
                 "seeking": 12,
-                "offering": 129,
-                "score": 117,
+                "offering": 130,
+                "score": 118,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -793,44 +793,44 @@
                 "name": "Fabric Flowers Dress",
                 "img": "https://images.neopets.com/items/mall_dress_fabricflower.gif",
                 "seeking": 1,
-                "offering": 56,
-                "score": 55,
+                "offering": 63,
+                "score": 62,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Fairytale Gown",
                 "img": "https://images.neopets.com/items/mall_clo_fairytalegown.gif",
-                "seeking": 21,
-                "offering": 73,
-                "score": 52,
+                "seeking": 20,
+                "offering": 77,
+                "score": 57,
                 "buyable": "no",
                 "owls": "2-3"
             },
             {
                 "name": "Felt and Buttons Jumper",
                 "img": "https://images.neopets.com/items/mall_clo_felt_button_jumper.gif",
-                "seeking": 16,
-                "offering": 28,
-                "score": 12,
+                "seeking": 12,
+                "offering": 33,
+                "score": 21,
                 "buyable": "no",
-                "owls": "10-15"
+                "owls": "5-7"
             },
             {
                 "name": "Fringed Fabric Cardigan",
                 "img": "https://images.neopets.com/items/mall_clo_cardigan_open_fringe.gif",
-                "seeking": 7,
-                "offering": 43,
-                "score": 36,
+                "seeking": 6,
+                "offering": 49,
+                "score": 43,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Gown of Brilliance",
                 "img": "https://images.neopets.com/items/mall_clo_gownbrilliance.gif",
-                "seeking": 14,
-                "offering": 56,
-                "score": 42,
+                "seeking": 15,
+                "offering": 59,
+                "score": 44,
                 "buyable": "no",
                 "owls": "3-4"
             },
@@ -838,8 +838,8 @@
                 "name": "Highlighted Fabric Skirt",
                 "img": "https://images.neopets.com/items/mall_clo_highlight_fabric_skir.gif",
                 "seeking": 3,
-                "offering": 42,
-                "score": 39,
+                "offering": 49,
+                "score": 46,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -847,8 +847,8 @@
                 "name": "Quilted Dress with Trim",
                 "img": "https://images.neopets.com/items/mall_fq_patchtrimdress.gif",
                 "seeking": 3,
-                "offering": 56,
-                "score": 53,
+                "offering": 64,
+                "score": 61,
                 "buyable": "no",
                 "owls": "2"
             },
@@ -856,26 +856,26 @@
                 "name": "Silk Stitched Metal Jacket",
                 "img": "https://images.neopets.com/items/mall_jacket_metal.gif",
                 "seeking": 2,
-                "offering": 59,
-                "score": 57,
+                "offering": 66,
+                "score": 64,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Tissue Paper Gem Dress",
                 "img": "https://images.neopets.com/items/mall_fq_jeweltissuedress.gif",
-                "seeking": 2,
-                "offering": 67,
-                "score": 65,
+                "seeking": 1,
+                "offering": 71,
+                "score": 70,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Tulle and Bells Cape",
                 "img": "https://images.neopets.com/items/mall_acc_tulle_bells_cape.gif",
-                "seeking": 40,
-                "offering": 25,
-                "score": -15,
+                "seeking": 36,
+                "offering": 30,
+                "score": -6,
                 "buyable": "no",
                 "owls": "4"
             },
@@ -883,8 +883,8 @@
                 "name": "Tulle and Yarn Tutu",
                 "img": "https://images.neopets.com/items/mall_clo_tulle_yarn_tutu.gif",
                 "seeking": 5,
-                "offering": 31,
-                "score": 26,
+                "offering": 34,
+                "score": 29,
                 "buyable": "no",
                 "owls": "4-7"
             },
@@ -892,26 +892,26 @@
                 "name": "Watercolour Tied Dress",
                 "img": "https://images.neopets.com/items/mall_clo_ropedress.gif",
                 "seeking": 6,
-                "offering": 71,
-                "score": 65,
+                "offering": 80,
+                "score": 74,
                 "buyable": "no",
                 "owls": "3-5"
             },
             {
                 "name": "Woven Straw Dress",
                 "img": "https://images.neopets.com/items/mall_dress_basketwoven.gif",
-                "seeking": 7,
-                "offering": 34,
-                "score": 27,
+                "seeking": 4,
+                "offering": 39,
+                "score": 35,
                 "buyable": "no",
                 "owls": "4-6"
             },
             {
                 "name": "Beautiful Waterfall Braid Wig",
                 "img": "https://images.neopets.com/items/mall_acc_waterfallwig.gif",
-                "seeking": 15,
+                "seeking": 13,
                 "offering": 51,
-                "score": 36,
+                "score": 38,
                 "buyable": "no",
                 "owls": "2-4"
             },
@@ -919,8 +919,8 @@
                 "name": "Blobikins Handheld Plushie",
                 "img": "https://images.neopets.com/items/mall_hh_blobikin_plushie.gif",
                 "seeking": 23,
-                "offering": 28,
-                "score": 5,
+                "offering": 32,
+                "score": 9,
                 "buyable": "no",
                 "owls": "10-12"
             },
@@ -928,17 +928,17 @@
                 "name": "Braided Metal Umbrella with Silk Flowers",
                 "img": "https://images.neopets.com/items/mall_umbrella_silk_flowers.gif",
                 "seeking": 0,
-                "offering": 69,
-                "score": 69,
+                "offering": 70,
+                "score": 70,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Chalk-Dyed Curls Wig",
                 "img": "https://images.neopets.com/items/mall_wig_chalkdye.gif",
-                "seeking": 7,
-                "offering": 51,
-                "score": 44,
+                "seeking": 6,
+                "offering": 59,
+                "score": 53,
                 "buyable": "no",
                 "owls": "3-5"
             },
@@ -946,25 +946,25 @@
                 "name": "Crystallized Rainbow Staff",
                 "img": "https://images.neopets.com/items/mall_acc_crystalrainbowstaff.gif",
                 "seeking": 2,
-                "offering": 39,
-                "score": 37,
+                "offering": 43,
+                "score": 41,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Delicate Dyed Cotton Wings",
                 "img": "https://images.neopets.com/items/mall_wings_cottondyedelicate.gif",
-                "seeking": 9,
-                "offering": 34,
-                "score": 25,
+                "seeking": 8,
+                "offering": 35,
+                "score": 27,
                 "buyable": "no",
                 "owls": "2-4"
             },
             {
                 "name": "Dyed Tree Sap Staff",
                 "img": "https://images.neopets.com/items/mall_hh_treesapstaff.gif",
-                "seeking": 4,
-                "offering": 38,
+                "seeking": 3,
+                "offering": 37,
                 "score": 34,
                 "buyable": "no",
                 "owls": "-"
@@ -973,8 +973,8 @@
                 "name": "Enchanted Butterfly Wings",
                 "img": "https://images.neopets.com/items/mall_acc_enchantedwings.gif",
                 "seeking": 11,
-                "offering": 53,
-                "score": 42,
+                "offering": 55,
+                "score": 44,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -982,8 +982,8 @@
                 "name": "Fancy Floral Wig",
                 "img": "https://images.neopets.com/items/mall_acc_floralwig.gif",
                 "seeking": 6,
-                "offering": 145,
-                "score": 139,
+                "offering": 142,
+                "score": 136,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -991,17 +991,17 @@
                 "name": "Feather Wig and Felt Accessory",
                 "img": "https://images.neopets.com/items/mall_wig_felt_feathers.gif",
                 "seeking": 3,
-                "offering": 27,
-                "score": 24,
+                "offering": 28,
+                "score": 25,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Flashy Tulle Wig",
                 "img": "https://images.neopets.com/items/mall_acc_tulle_ink_wig.gif",
-                "seeking": 22,
-                "offering": 51,
-                "score": 29,
+                "seeking": 21,
+                "offering": 52,
+                "score": 31,
                 "buyable": "no",
                 "owls": "7-8"
             },
@@ -1009,8 +1009,8 @@
                 "name": "Gem and Ribbon Necklace",
                 "img": "https://images.neopets.com/items/mall_fq_jewelribbonneck.gif",
                 "seeking": 3,
-                "offering": 26,
-                "score": 23,
+                "offering": 25,
+                "score": 22,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1018,17 +1018,17 @@
                 "name": "Glitter and Trim Wig",
                 "img": "https://images.neopets.com/items/mall_fq_glittertrimwig.gif",
                 "seeking": 3,
-                "offering": 76,
-                "score": 73,
+                "offering": 81,
+                "score": 78,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Glittery Zipper Wings",
                 "img": "https://images.neopets.com/items/mall_fq_zipperglitterwing.gif",
-                "seeking": 2,
-                "offering": 56,
-                "score": 54,
+                "seeking": 1,
+                "offering": 58,
+                "score": 57,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1036,8 +1036,8 @@
                 "name": "Lavender Bun",
                 "img": "https://images.neopets.com/items/mall_acc_lavenderbun.gif",
                 "seeking": 0,
-                "offering": 70,
-                "score": 70,
+                "offering": 78,
+                "score": 78,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1045,26 +1045,26 @@
                 "name": "Marbled Glass Headband Wig",
                 "img": "https://images.neopets.com/items/mall_wig_marbleglass.gif",
                 "seeking": 10,
-                "offering": 58,
-                "score": 48,
+                "offering": 61,
+                "score": 51,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Mosaic Bead Wings",
                 "img": "https://images.neopets.com/items/mall_wings_glassbead.gif",
-                "seeking": 8,
-                "offering": 26,
-                "score": 18,
+                "seeking": 6,
+                "offering": 27,
+                "score": 21,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Patchwork Glitter Chia Plushie",
                 "img": "https://images.neopets.com/items/mall_fq_chiapatchplushie.gif",
-                "seeking": 10,
-                "offering": 31,
-                "score": 21,
+                "seeking": 9,
+                "offering": 32,
+                "score": 23,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1072,8 +1072,8 @@
                 "name": "Pins and Paper Necklace",
                 "img": "https://images.neopets.com/items/mall_neck_paperpin.gif",
                 "seeking": 12,
-                "offering": 31,
-                "score": 19,
+                "offering": 37,
+                "score": 25,
                 "buyable": "no",
                 "owls": "9-10"
             },
@@ -1081,8 +1081,8 @@
                 "name": "Safety Pin Mosaic Wig",
                 "img": "https://images.neopets.com/items/mall_acc_pinwig.gif",
                 "seeking": 2,
-                "offering": 35,
-                "score": 33,
+                "offering": 36,
+                "score": 34,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1090,26 +1090,26 @@
                 "name": "Satin Ribbon Wood Staff",
                 "img": "https://images.neopets.com/items/mall_fq_ribbonwoodstaff.gif",
                 "seeking": 1,
-                "offering": 36,
-                "score": 35,
+                "offering": 41,
+                "score": 40,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Silk Wig with Flowers",
                 "img": "https://images.neopets.com/items/mall_wig_silk_flowers.gif",
-                "seeking": 31,
-                "offering": 75,
-                "score": 44,
+                "seeking": 29,
+                "offering": 76,
+                "score": 47,
                 "buyable": "no",
                 "owls": "3-4"
             },
             {
                 "name": "Tissue Paper Wood Wings",
                 "img": "https://images.neopets.com/items/mall_fq_tissuewoodwings.gif",
-                "seeking": 3,
-                "offering": 44,
-                "score": 41,
+                "seeking": 2,
+                "offering": 49,
+                "score": 47,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1117,8 +1117,8 @@
                 "name": "Tree Sap and Cotton Wig",
                 "img": "https://images.neopets.com/items/mall_wig_cottontreesap.gif",
                 "seeking": 1,
-                "offering": 52,
-                "score": 51,
+                "offering": 56,
+                "score": 55,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -1126,44 +1126,44 @@
                 "name": "Wood and Gems Wig",
                 "img": "https://images.neopets.com/items/mall_fq_jewelwoodwig.gif",
                 "seeking": 0,
-                "offering": 61,
-                "score": 61,
+                "offering": 62,
+                "score": 62,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Woven Silk Wings",
                 "img": "https://images.neopets.com/items/mall_wings_silk.gif",
-                "seeking": 1,
-                "offering": 67,
-                "score": 66,
+                "seeking": 0,
+                "offering": 71,
+                "score": 71,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Beaded Paper Background",
                 "img": "https://images.neopets.com/items/mall_bg_paperbeads.gif",
-                "seeking": 28,
-                "offering": 59,
-                "score": 31,
+                "seeking": 30,
+                "offering": 67,
+                "score": 37,
                 "buyable": "no",
                 "owls": "8-10"
             },
             {
                 "name": "Bright Flower Cutout Background",
                 "img": "https://images.neopets.com/items/mall_back_flower_scissors_cuto.gif",
-                "seeking": 17,
-                "offering": 68,
-                "score": 51,
+                "seeking": 16,
+                "offering": 74,
+                "score": 58,
                 "buyable": "no",
                 "owls": "4-5"
             },
             {
                 "name": "Bright Yarn and Bells Garland",
                 "img": "https://images.neopets.com/items/mall_trink_bell_yarn_garland.gif",
-                "seeking": 11,
-                "offering": 74,
-                "score": 63,
+                "seeking": 10,
+                "offering": 85,
+                "score": 75,
                 "buyable": "no",
                 "owls": "10-15"
             },
@@ -1174,41 +1174,41 @@
                 "offering": 76,
                 "score": 39,
                 "buyable": "no",
-                "owls": "4-5"
+                "owls": "3-5"
             },
             {
                 "name": "Button Town Background",
                 "img": "https://images.neopets.com/items/mall_bk_button_tree.gif",
-                "seeking": 40,
-                "offering": 64,
-                "score": 24,
+                "seeking": 39,
+                "offering": 66,
+                "score": 27,
                 "buyable": "no",
-                "owls": "5-6"
+                "owls": "3-4"
             },
             {
                 "name": "Candlelit Walkway",
                 "img": "https://images.neopets.com/items/mall_bgi_candlelitwalk.gif",
-                "seeking": 19,
-                "offering": 94,
-                "score": 75,
+                "seeking": 17,
+                "offering": 99,
+                "score": 82,
                 "buyable": "no",
                 "owls": "2"
             },
             {
                 "name": "Colourful Floral Arch",
                 "img": "https://images.neopets.com/items/mall_arch_colorful.gif",
-                "seeking": 5,
-                "offering": 147,
-                "score": 142,
+                "seeking": 4,
+                "offering": 150,
+                "score": 146,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Cotton and Straw Dreamland Background",
                 "img": "https://images.neopets.com/items/mall_bg_cottonstrawdream.gif",
-                "seeking": 11,
-                "offering": 73,
-                "score": 62,
+                "seeking": 12,
+                "offering": 79,
+                "score": 67,
                 "buyable": "no",
                 "owls": "10"
             },
@@ -1216,8 +1216,8 @@
                 "name": "Crafted Pergola Background",
                 "img": "https://images.neopets.com/items/mall_bg_pergola.gif",
                 "seeking": 5,
-                "offering": 90,
-                "score": 85,
+                "offering": 97,
+                "score": 92,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1225,26 +1225,26 @@
                 "name": "Fabric Flowers Foreground",
                 "img": "https://images.neopets.com/items/mall_trink_highlight_flower_fg.gif",
                 "seeking": 5,
-                "offering": 68,
-                "score": 63,
+                "offering": 75,
+                "score": 70,
                 "buyable": "no",
                 "owls": "2-3"
             },
             {
                 "name": "Feather Button Tree",
                 "img": "https://images.neopets.com/items/mall_trink_button_side_tree.gif",
-                "seeking": 9,
-                "offering": 62,
-                "score": 53,
+                "seeking": 10,
+                "offering": 71,
+                "score": 61,
                 "buyable": "no",
                 "owls": "6-8"
             },
             {
                 "name": "Feather Flower Garden Foreground",
                 "img": "https://images.neopets.com/items/mall_trink_felt_flower_fg.gif",
-                "seeking": 31,
-                "offering": 57,
-                "score": 26,
+                "seeking": 30,
+                "offering": 64,
+                "score": 34,
                 "buyable": "no",
                 "owls": "6-8"
             },
@@ -1252,8 +1252,8 @@
                 "name": "Flower and Wire Garland",
                 "img": "https://images.neopets.com/items/mall_garland_wire_flowers.gif",
                 "seeking": 3,
-                "offering": 90,
-                "score": 87,
+                "offering": 93,
+                "score": 90,
                 "buyable": "no",
                 "owls": "3-5"
             },
@@ -1261,26 +1261,26 @@
                 "name": "Hanging Wood Shelves",
                 "img": "https://images.neopets.com/items/mall_trink_shelfcolumns.gif",
                 "seeking": 3,
-                "offering": 74,
-                "score": 71,
+                "offering": 82,
+                "score": 79,
                 "buyable": "no",
                 "owls": "1-2"
             },
             {
                 "name": "Highlighted Flower Garland",
                 "img": "https://images.neopets.com/items/mall_trink_neon_flower_garland.gif",
-                "seeking": 15,
-                "offering": 69,
-                "score": 54,
+                "seeking": 16,
+                "offering": 74,
+                "score": 58,
                 "buyable": "no",
                 "owls": "12-15"
             },
             {
                 "name": "Inside a Clock Tower Background",
                 "img": "https://images.neopets.com/items/mall_background_clock_tower.gif",
-                "seeking": 7,
-                "offering": 79,
-                "score": 72,
+                "seeking": 5,
+                "offering": 85,
+                "score": 80,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1288,53 +1288,53 @@
                 "name": "Kacheek Scarecrow",
                 "img": "https://images.neopets.com/items/mall_trink_scarecrow.gif",
                 "seeking": 23,
-                "offering": 71,
-                "score": 48,
+                "offering": 76,
+                "score": 53,
                 "buyable": "no",
-                "owls": "10-15"
+                "owls": "8-10"
             },
             {
                 "name": "Land of Magic Background",
                 "img": "https://images.neopets.com/items/mall_bg_landofmagic.gif",
-                "seeking": 37,
-                "offering": 85,
-                "score": 48,
+                "seeking": 34,
+                "offering": 86,
+                "score": 52,
                 "buyable": "no",
                 "owls": "4-5"
             },
             {
                 "name": "Lighted Chiffon Curtains",
                 "img": "https://images.neopets.com/items/mall_trink_chifcurtain.gif",
-                "seeking": 6,
-                "offering": 78,
-                "score": 72,
+                "seeking": 7,
+                "offering": 84,
+                "score": 77,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Lilac Creek Background",
                 "img": "https://images.neopets.com/items/mall_withinthewonderfulriverbg.gif",
-                "seeking": 46,
-                "offering": 205,
-                "score": 159,
+                "seeking": 44,
+                "offering": 212,
+                "score": 168,
                 "buyable": "no",
                 "owls": "3-4"
             },
             {
                 "name": "Lit Fabric Flowers Foreground",
                 "img": "https://images.neopets.com/items/mall_fg_litflowers.gif",
-                "seeking": 14,
-                "offering": 63,
-                "score": 49,
+                "seeking": 15,
+                "offering": 71,
+                "score": 56,
                 "buyable": "no",
                 "owls": "4-5"
             },
             {
                 "name": "Mosaic Paper Tree Foreground",
                 "img": "https://images.neopets.com/items/mall_fg_paperglasstree.gif",
-                "seeking": 18,
-                "offering": 62,
-                "score": 44,
+                "seeking": 17,
+                "offering": 64,
+                "score": 47,
                 "buyable": "no",
                 "owls": "6-8"
             },
@@ -1342,17 +1342,17 @@
                 "name": "Quilted Zippers Background",
                 "img": "https://images.neopets.com/items/mall_fq_patcheszipperbg.gif",
                 "seeking": 0,
-                "offering": 87,
-                "score": 87,
+                "offering": 89,
+                "score": 89,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Radiant Branches Foreground",
                 "img": "https://images.neopets.com/items/mall_trink_radiantbranches.gif",
-                "seeking": 9,
-                "offering": 76,
-                "score": 67,
+                "seeking": 10,
+                "offering": 84,
+                "score": 74,
                 "buyable": "no",
                 "owls": "2-4"
             },
@@ -1360,8 +1360,8 @@
                 "name": "Rope Ornaments Foreground",
                 "img": "https://images.neopets.com/items/mall_fg_ropebowl.gif",
                 "seeking": 2,
-                "offering": 81,
-                "score": 79,
+                "offering": 88,
+                "score": 86,
                 "buyable": "no",
                 "owls": "2-4"
             },
@@ -1369,8 +1369,8 @@
                 "name": "Shiny Crystal Stand Foreground",
                 "img": "https://images.neopets.com/items/mall_trink_crystalstand.gif",
                 "seeking": 7,
-                "offering": 56,
-                "score": 49,
+                "offering": 66,
+                "score": 59,
                 "buyable": "no",
                 "owls": "3-4"
             },
@@ -1378,8 +1378,8 @@
                 "name": "Springtime Doorstep Background",
                 "img": "https://images.neopets.com/items/mall_bg_springporch.gif",
                 "seeking": 5,
-                "offering": 79,
-                "score": 74,
+                "offering": 87,
+                "score": 82,
                 "buyable": "no",
                 "owls": "2-3"
             },
@@ -1387,17 +1387,17 @@
                 "name": "Strange Shrubs Foreground",
                 "img": "https://images.neopets.com/items/mall_strangeshrubs_fg.gif",
                 "seeking": 5,
-                "offering": 129,
-                "score": 124,
+                "offering": 134,
+                "score": 129,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "The Tree of Life",
                 "img": "https://images.neopets.com/items/mall_bg_treeolife.gif",
-                "seeking": 72,
-                "offering": 93,
-                "score": 21,
+                "seeking": 69,
+                "offering": 95,
+                "score": 26,
                 "buyable": "no",
                 "owls": "5-8"
             },
@@ -1405,8 +1405,8 @@
                 "name": "Tissue Paper Ribbon Garland",
                 "img": "https://images.neopets.com/items/mall_fq_ribtissuegarland.gif",
                 "seeking": 1,
-                "offering": 61,
-                "score": 60,
+                "offering": 65,
+                "score": 64,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1414,8 +1414,8 @@
                 "name": "Trim and Zipper Tree",
                 "img": "https://images.neopets.com/items/mall_fq_zipperleafbgitem.gif",
                 "seeking": 1,
-                "offering": 77,
-                "score": 76,
+                "offering": 84,
+                "score": 83,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1423,26 +1423,1610 @@
                 "name": "Vibrant Bell Gate",
                 "img": "https://images.neopets.com/items/mall_trink_bell_ink_gate.gif",
                 "seeking": 1,
-                "offering": 61,
-                "score": 60,
+                "offering": 68,
+                "score": 67,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Wood Planter Fence",
                 "img": "https://images.neopets.com/items/mall_trink_planterfence.gif",
-                "seeking": 17,
-                "offering": 82,
-                "score": 65,
+                "seeking": 16,
+                "offering": 85,
+                "score": 69,
                 "buyable": "no",
                 "owls": "8-10"
             },
             {
                 "name": "Zen Oasis Canopy",
                 "img": "https://images.neopets.com/items/mall_trink_fantasycanopy.gif",
+                "seeking": 10,
+                "offering": 153,
+                "score": 143,
+                "buyable": "no",
+                "owls": "1-2"
+            }
+        ]
+    },
+    {
+        "name": "Shrieking Call Halloween Gram",
+        "img": "https://images.neopets.com/items/mall_gram_shrieking.gif",
+        "still_collecting_data": false,
+        "score_items": 27.1,
+        "number_items": 8,
+        "items": [
+            {
+                "name": "Blonde Bob with Bangs Wig",
+                "img": "https://images.neopets.com/items/mall_acc_blondebob.gif",
+                "seeking": 2,
+                "offering": 33,
+                "score": 31,
+                "buyable": "no",
+                "owls": "Gram thru 11/7"
+            },
+            {
+                "name": "Chill Night in Outfit",
+                "img": "https://images.neopets.com/items/mall_clo_chillnightin_outfit.gif",
+                "seeking": 6,
+                "offering": 33,
+                "score": 27,
+                "buyable": "no",
+                "owls": "Gram thru 11/7"
+            },
+            {
+                "name": "Flowing Black Cloak",
+                "img": "https://images.neopets.com/items/mall_clo_spookyblkcloak.gif",
+                "seeking": 26,
+                "offering": 51,
+                "score": 25,
+                "buyable": "no",
+                "owls": "Gram thru 11/7"
+            },
+            {
+                "name": "Raining Outside Window Foreground",
+                "img": "https://images.neopets.com/items/mall_fg_rainingwindow.gif",
+                "seeking": 8,
+                "offering": 34,
+                "score": 26,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Shrieking Mask",
+                "img": "https://images.neopets.com/items/mall_acc_shriekmask.gif",
+                "seeking": 7,
+                "offering": 33,
+                "score": 26,
+                "buyable": "no",
+                "owls": "Gram thru 11/7"
+            },
+            {
+                "name": "Spooky Toy Knife Handheld",
+                "img": "https://images.neopets.com/items/mall_acc_hh_toyknife.gif",
+                "seeking": 19,
+                "offering": 37,
+                "score": 18,
+                "buyable": "no",
+                "owls": "Gram thru 11/7"
+            },
+            {
+                "name": "The Call is Coming From Inside Foreground",
+                "img": "https://images.neopets.com/items/mall_fg_phonecall.gif",
+                "seeking": 5,
+                "offering": 31,
+                "score": 26,
+                "buyable": "no",
+                "owls": "Gram thru 11/7"
+            },
+            {
+                "name": "Alone at Home Background",
+                "img": "https://images.neopets.com/items/mall_bg_aloneathome.gif",
                 "seeking": 9,
-                "offering": 142,
-                "score": 133,
+                "offering": 47,
+                "score": 38,
+                "buyable": "no",
+                "owls": "Gram thru 11/7"
+            }
+        ]
+    },
+    {
+        "name": "Korbat Cutie Gift Box Mystery Capsule",
+        "img": "https://images.neopets.com/items/mall_gbmc_korbatcutiebox.gif",
+        "still_collecting_data": false,
+        "score_items": 0.0,
+        "number_items": 1,
+        "items": [
+            {
+                "name": "Korbat Cutie Gift Box",
+                "img": "https://images.neopets.com/items/mall_gb_korbatcutiebox.gif",
+                "seeking": 0,
+                "offering": 0,
+                "score": 0,
+                "buyable": "no",
+                "owls": "-"
+            }
+        ]
+    },
+    {
+        "name": "Pumpkin Spice & Spells Mystery Capsule",
+        "img": "https://images.neopets.com/items/mall_mc_pumpkinspicespells.gif",
+        "still_collecting_data": false,
+        "score_items": 165.0,
+        "number_items": 10,
+        "items": [
+            {
+                "name": "Fall Harvest Plaid Overalls Outfit",
+                "img": "https://images.neopets.com/items/mall_clo_harvestplaidoveralls.gif",
+                "seeking": 15,
+                "offering": 197,
+                "score": 182,
+                "buyable": "no",
+                "owls": "Cap Item thru 11/28"
+            },
+            {
+                "name": "Fall Messy Bun with Plaid Bandana Wig",
+                "img": "https://images.neopets.com/items/mall_acc_fallmessybunwig.gif",
+                "seeking": 4,
+                "offering": 225,
+                "score": 221,
+                "buyable": "no",
+                "owls": "Cap Item thru 11/28"
+            },
+            {
+                "name": "Fall Pumpkin Spice Witch Dress",
+                "img": "https://images.neopets.com/items/mall_clo_pswitchdress.gif",
+                "seeking": 16,
+                "offering": 196,
+                "score": 180,
+                "buyable": "no",
+                "owls": "Cap Item thru 11/28"
+            },
+            {
+                "name": "Hot Pumpkin Spice To-Go Latte",
+                "img": "https://images.neopets.com/items/mall_acc_hotpsl_togo.gif",
+                "seeking": 17,
+                "offering": 196,
+                "score": 179,
+                "buyable": "no",
+                "owls": "Cap Item thru 11/28"
+            },
+            {
+                "name": "Orange & Black Split Dye Buns Wig",
+                "img": "https://images.neopets.com/items/mall_acc_blackorangebunswig.gif",
+                "seeking": 6,
+                "offering": 216,
+                "score": 210,
+                "buyable": "no",
+                "owls": "Cap Item thru 11/28"
+            },
+            {
+                "name": "Pumpkin Cauldron Foreground",
+                "img": "https://images.neopets.com/items/mall_fg_pumpkincauldron.gif",
+                "seeking": 1,
+                "offering": 229,
+                "score": 228,
+                "buyable": "no",
+                "owls": "Cap Item thru 11/28"
+            },
+            {
+                "name": "Pumpkin Patch Farm Background",
+                "img": "https://images.neopets.com/items/mall_bg_pumpkinpatchfarm.gif",
+                "seeking": 22,
+                "offering": 179,
+                "score": 157,
+                "buyable": "no",
+                "owls": "Cap Item thru 11/28"
+            },
+            {
+                "name": "Magical Coffee Flurry",
+                "img": "https://images.neopets.com/items/mall_acc_magiccoffees.gif",
+                "seeking": 11,
+                "offering": 149,
+                "score": 138,
+                "buyable": "no",
+                "owls": "Cap Item thru 11/28"
+            },
+            {
+                "name": "Meowclops Companion",
+                "img": "https://images.neopets.com/items/mall_acc_meowclopscompanion.gif",
+                "seeking": 51,
+                "offering": 93,
+                "score": 42,
+                "buyable": "no",
+                "owls": "Cap Item thru 11/28"
+            },
+            {
+                "name": "Witches Brew Coffee Shop Background",
+                "img": "https://images.neopets.com/items/mall_bg_witchesbrewcoffeeshop.gif",
+                "seeking": 27,
+                "offering": 140,
+                "score": 113,
+                "buyable": "no",
+                "owls": "Cap Item thru 11/28"
+            }
+        ]
+    },
+    {
+        "name": "Closet Essentials Mystery Capsule",
+        "img": "https://images.neopets.com/items/mall_mc_closetbasics.gif",
+        "still_collecting_data": false,
+        "score_items": 10.5,
+        "number_items": 100,
+        "items": [
+            {
+                "name": "Essential Black Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicshirt_black.gif",
+                "seeking": 6,
+                "offering": 2,
+                "score": -4,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Blue Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicshirt_blue.gif",
+                "seeking": 0,
+                "offering": 6,
+                "score": 6,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Brown Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicshirt_brown.gif",
+                "seeking": 0,
+                "offering": 5,
+                "score": 5,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Green Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicshirt_green.gif",
+                "seeking": 0,
+                "offering": 9,
+                "score": 9,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Orange Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicshirt_ornge.gif",
+                "seeking": 0,
+                "offering": 5,
+                "score": 5,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Pink Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicshirt_pink.gif",
+                "seeking": 1,
+                "offering": 6,
+                "score": 5,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Purple Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicshirt_purp.gif",
+                "seeking": 3,
+                "offering": 6,
+                "score": 3,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Red Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicshirt_red.gif",
+                "seeking": 0,
+                "offering": 3,
+                "score": 3,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential White Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicshirt_white.gif",
+                "seeking": 6,
+                "offering": 7,
+                "score": 1,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Yellow Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicshirt_yellw.gif",
+                "seeking": 3,
+                "offering": 5,
+                "score": 2,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Black Long Sleeve Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_black.gif",
+                "seeking": 10,
+                "offering": 2,
+                "score": -8,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Blue Long Sleeve Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_blue.gif",
+                "seeking": 0,
+                "offering": 5,
+                "score": 5,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential Brown Long Sleeve Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_brown.gif",
+                "seeking": 2,
+                "offering": 4,
+                "score": 2,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Green Long Sleeve Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_green.gif",
+                "seeking": 0,
+                "offering": 10,
+                "score": 10,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Orange Long Sleeve Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_ornge.gif",
+                "seeking": 1,
+                "offering": 7,
+                "score": 6,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Pink Long Sleeve Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_pink.gif",
+                "seeking": 4,
+                "offering": 4,
+                "score": 0,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Purple Long Sleeve Shirt",
+                "img": "",
+                "seeking": 2,
+                "offering": 6,
+                "score": 4,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Red Long Sleeve Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_red.gif",
+                "seeking": 0,
+                "offering": 9,
+                "score": 9,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential White Long Sleeve Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_white.gif",
+                "seeking": 6,
+                "offering": 5,
+                "score": -1,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Yellow Long Sleeve Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_yellow.gif",
+                "seeking": 2,
+                "offering": 8,
+                "score": 6,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Black Tank Top",
+                "img": "https://images.neopets.com/items/mall_clo_basictank_black.gif",
+                "seeking": 9,
+                "offering": 2,
+                "score": -7,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Blue Tank Top",
+                "img": "https://images.neopets.com/items/mall_clo_basictank_blue.gif",
+                "seeking": 1,
+                "offering": 6,
+                "score": 5,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Brown Tank Top",
+                "img": "https://images.neopets.com/items/mall_clo_basictank_brown.gif",
+                "seeking": 2,
+                "offering": 6,
+                "score": 4,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Green Tank Top",
+                "img": "https://images.neopets.com/items/mall_clo_basictank_green.gif",
+                "seeking": 3,
+                "offering": 8,
+                "score": 5,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential Orange Tank Top",
+                "img": "https://images.neopets.com/items/mall_clo_basictank_orange.gif",
+                "seeking": 1,
+                "offering": 6,
+                "score": 5,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Pink Tank Top",
+                "img": "https://images.neopets.com/items/mall_clo_basictank_pink.gif",
+                "seeking": 1,
+                "offering": 11,
+                "score": 10,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Purple Tank Top",
+                "img": "https://images.neopets.com/items/mall_clo_basictank_purp.gif",
+                "seeking": 2,
+                "offering": 11,
+                "score": 9,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Red Tank Top",
+                "img": "https://images.neopets.com/items/mall_clo_basictank_red.gif",
+                "seeking": 2,
+                "offering": 8,
+                "score": 6,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential White Tank Top",
+                "img": "https://images.neopets.com/items/mall_clo_basictank_white.gif",
+                "seeking": 5,
+                "offering": 2,
+                "score": -3,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Yellow Tank Top",
+                "img": "https://images.neopets.com/items/mall_clo_basictank_yellow.gif",
+                "seeking": 1,
+                "offering": 6,
+                "score": 5,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Black Cardigan",
+                "img": "https://images.neopets.com/items/mall_clo_basiccardi_black.gif",
+                "seeking": 6,
+                "offering": 9,
+                "score": 3,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential Blue Cardigan",
+                "img": "https://images.neopets.com/items/mall_clo_basiccardi_blue.gif",
+                "seeking": 5,
+                "offering": 7,
+                "score": 2,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Brown Cardigan",
+                "img": "https://images.neopets.com/items/mall_clo_basiccardi_brown.gif",
+                "seeking": 5,
+                "offering": 10,
+                "score": 5,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Green Cardigan",
+                "img": "https://images.neopets.com/items/mall_clo_basiccardi_green.gif",
+                "seeking": 0,
+                "offering": 10,
+                "score": 10,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential Orange Cardigan",
+                "img": "https://images.neopets.com/items/mall_clo_basiccardi_orange.gif",
+                "seeking": 3,
+                "offering": 10,
+                "score": 7,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Pink Cardigan",
+                "img": "https://images.neopets.com/items/mall_clo_basiccardi_pink.gif",
+                "seeking": 1,
+                "offering": 7,
+                "score": 6,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Purple Cardigan",
+                "img": "https://images.neopets.com/items/mall_clo_basiccardi_purp.gif",
+                "seeking": 2,
+                "offering": 11,
+                "score": 9,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Red Cardigan",
+                "img": "https://images.neopets.com/items/mall_clo_basiccardi_red.gif",
+                "seeking": 1,
+                "offering": 8,
+                "score": 7,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential White Cardigan",
+                "img": "https://images.neopets.com/items/mall_clo_basiccardi_white.gif",
+                "seeking": 6,
+                "offering": 11,
+                "score": 5,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential Yellow Cardigan",
+                "img": "https://images.neopets.com/items/mall_clo_basiccardi_yellow.gif",
+                "seeking": 1,
+                "offering": 11,
+                "score": 10,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Black Hoodie",
+                "img": "https://images.neopets.com/items/mall_clo_basichoodie_black.gif",
+                "seeking": 13,
+                "offering": 8,
+                "score": -5,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Blue Hoodie",
+                "img": "https://images.neopets.com/items/mall_clo_basichoodie_blue.gif",
+                "seeking": 5,
+                "offering": 20,
+                "score": 15,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Brown Hoodie",
+                "img": "https://images.neopets.com/items/mall_clo_basichoodie_brown.gif",
+                "seeking": 4,
+                "offering": 18,
+                "score": 14,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Green Hoodie",
+                "img": "https://images.neopets.com/items/mall_clo_basichoodie_green.gif",
+                "seeking": 1,
+                "offering": 13,
+                "score": 12,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Orange Hoodie",
+                "img": "https://images.neopets.com/items/mall_clo_basichoodie_orange.gif",
+                "seeking": 2,
+                "offering": 18,
+                "score": 16,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential Pink Hoodie",
+                "img": "https://images.neopets.com/items/mall_clo_basichoodie_pink.gif",
+                "seeking": 4,
+                "offering": 7,
+                "score": 3,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Purple Hoodie",
+                "img": "https://images.neopets.com/items/mall_clo_basichoodie_purp.gif",
+                "seeking": 3,
+                "offering": 7,
+                "score": 4,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Red Hoodie",
+                "img": "https://images.neopets.com/items/mall_clo_basichoodie_red.gif",
+                "seeking": 1,
+                "offering": 19,
+                "score": 18,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential White Hoodie",
+                "img": "https://images.neopets.com/items/mall_clo_basichoodie_white.gif",
+                "seeking": 5,
+                "offering": 14,
+                "score": 9,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Yellow Hoodie",
+                "img": "https://images.neopets.com/items/mall_clo_basichoodie_yellow.gif",
+                "seeking": 2,
+                "offering": 16,
+                "score": 14,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Black Pants",
+                "img": "https://images.neopets.com/items/mall_clo_basicpants_black.gif",
+                "seeking": 13,
+                "offering": 4,
+                "score": -9,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential Blue Pants",
+                "img": "https://images.neopets.com/items/mall_clo_basicpants_blue.gif",
+                "seeking": 4,
+                "offering": 13,
+                "score": 9,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential Brown Pants",
+                "img": "https://images.neopets.com/items/mall_clo_basicpants_brown.gif",
+                "seeking": 3,
+                "offering": 6,
+                "score": 3,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential Green Pants",
+                "img": "https://images.neopets.com/items/mall_clo_basicpants_green.gif",
+                "seeking": 3,
+                "offering": 12,
+                "score": 9,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Orange Pants",
+                "img": "https://images.neopets.com/items/mall_clo_basicpants_orange.gif",
+                "seeking": 1,
+                "offering": 17,
+                "score": 16,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Pink Pants",
+                "img": "https://images.neopets.com/items/mall_clo_basicpants_pink.gif",
+                "seeking": 4,
+                "offering": 8,
+                "score": 4,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential Purple Pants",
+                "img": "https://images.neopets.com/items/mall_clo_basicpants_purp.gif",
+                "seeking": 3,
+                "offering": 8,
+                "score": 5,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Red Pants",
+                "img": "https://images.neopets.com/items/mall_clo_basicpants_red.gif",
+                "seeking": 1,
+                "offering": 10,
+                "score": 9,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential White Pants",
+                "img": "https://images.neopets.com/items/mall_clo_basicpants_white.gif",
+                "seeking": 5,
+                "offering": 6,
+                "score": 1,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Yellow Pants",
+                "img": "https://images.neopets.com/items/mall_clo_basicpants_yellow.gif",
+                "seeking": 2,
+                "offering": 11,
+                "score": 9,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Black Shorts",
+                "img": "https://images.neopets.com/items/mall_clo_basicshorts_black.gif",
+                "seeking": 8,
+                "offering": 4,
+                "score": -4,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Blue Shorts",
+                "img": "https://images.neopets.com/items/mall_clo_basicshorts_blue.gif",
+                "seeking": 4,
+                "offering": 5,
+                "score": 1,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Brown Shorts",
+                "img": "https://images.neopets.com/items/mall_clo_basicshorts_brown.gif",
+                "seeking": 3,
+                "offering": 5,
+                "score": 2,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Green Shorts",
+                "img": "https://images.neopets.com/items/mall_clo_basicshorts_green.gif",
+                "seeking": 3,
+                "offering": 6,
+                "score": 3,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Orange Shorts",
+                "img": "https://images.neopets.com/items/mall_clo_basicshorts_orange.gif",
+                "seeking": 0,
+                "offering": 11,
+                "score": 11,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Pink Shorts",
+                "img": "https://images.neopets.com/items/mall_clo_basicshorts_pink.gif",
+                "seeking": 2,
+                "offering": 3,
+                "score": 1,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Purple Shorts",
+                "img": "https://images.neopets.com/items/mall_clo_basicshorts_purp.gif",
+                "seeking": 3,
+                "offering": 9,
+                "score": 6,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Red Shorts",
+                "img": "https://images.neopets.com/items/mall_clo_basicshorts_red.gif",
+                "seeking": 1,
+                "offering": 8,
+                "score": 7,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential White Shorts",
+                "img": "https://images.neopets.com/items/mall_clo_basicshorts_white.gif",
+                "seeking": 4,
+                "offering": 2,
+                "score": -2,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Yellow Shorts",
+                "img": "https://images.neopets.com/items/mall_clo_basicshorts_yellow.gif",
+                "seeking": 3,
+                "offering": 3,
+                "score": 0,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Black Skirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicskirt_black.gif",
+                "seeking": 12,
+                "offering": 12,
+                "score": 0,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Blue Skirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicskirt_blue.gif",
+                "seeking": 1,
+                "offering": 15,
+                "score": 14,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Brown Skirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicskirt_brown.gif",
+                "seeking": 4,
+                "offering": 14,
+                "score": 10,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential Green Skirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicskirt_green.gif",
+                "seeking": 2,
+                "offering": 11,
+                "score": 9,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Orange Skirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicskirt_orange.gif",
+                "seeking": 1,
+                "offering": 12,
+                "score": 11,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Pink Skirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicskirt_pink.gif",
+                "seeking": 7,
+                "offering": 5,
+                "score": -2,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Purple Skirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicskirt_purp.gif",
+                "seeking": 3,
+                "offering": 9,
+                "score": 6,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Red Skirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicskirt_red.gif",
+                "seeking": 1,
+                "offering": 22,
+                "score": 21,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential White Skirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicskirt_white.gif",
+                "seeking": 9,
+                "offering": 10,
+                "score": 1,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Yellow Skirt",
+                "img": "https://images.neopets.com/items/mall_clo_basicskirt_yellow.gif",
+                "seeking": 0,
+                "offering": 17,
+                "score": 17,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Black Filter",
+                "img": "https://images.neopets.com/items/mall_trink_basicfilter_black.gif",
+                "seeking": 27,
+                "offering": 46,
+                "score": 19,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential Blue Filter",
+                "img": "https://images.neopets.com/items/mall_trink_basicfilter_blue.gif",
+                "seeking": 5,
+                "offering": 70,
+                "score": 65,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential Brown Filter",
+                "img": "https://images.neopets.com/items/mall_trink_basicfilter_brown.gif",
+                "seeking": 7,
+                "offering": 62,
+                "score": 55,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential Green Filter",
+                "img": "https://images.neopets.com/items/mall_trink_basicfilter_green.gif",
+                "seeking": 3,
+                "offering": 83,
+                "score": 80,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Orange Filter",
+                "img": "https://images.neopets.com/items/mall_trink_basicfilter_orange.gif",
+                "seeking": 2,
+                "offering": 76,
+                "score": 74,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Pink Filter",
+                "img": "https://images.neopets.com/items/mall_trink_basicfilter_pink.gif",
+                "seeking": 16,
+                "offering": 63,
+                "score": 47,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Purple Filter",
+                "img": "https://images.neopets.com/items/mall_trink_basicfilter_purple.gif",
+                "seeking": 9,
+                "offering": 67,
+                "score": 58,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Red Filter",
+                "img": "https://images.neopets.com/items/mall_trink_basicfilter_red.gif",
+                "seeking": 3,
+                "offering": 84,
+                "score": 81,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential White Filter",
+                "img": "https://images.neopets.com/items/mall_trink_basicfilter_white.gif",
+                "seeking": 61,
+                "offering": 22,
+                "score": -39,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Yellow Filter",
+                "img": "https://images.neopets.com/items/mall_trink_basicfilter_yellow.gif",
+                "seeking": 2,
+                "offering": 84,
+                "score": 82,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential Black Background",
+                "img": "https://images.neopets.com/items/mall_bg_basicbg_black.gif",
+                "seeking": 13,
+                "offering": 11,
+                "score": -2,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Essential Blue Background",
+                "img": "https://images.neopets.com/items/mall_bg_basicbg_blue.gif",
+                "seeking": 4,
+                "offering": 15,
+                "score": 11,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Brown Background",
+                "img": "https://images.neopets.com/items/mall_bg_basicbg_brown.gif",
+                "seeking": 2,
+                "offering": 15,
+                "score": 13,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Green Background",
+                "img": "https://images.neopets.com/items/mall_bg_basicbg_green.gif",
+                "seeking": 3,
+                "offering": 16,
+                "score": 13,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential Orange Background",
+                "img": "https://images.neopets.com/items/mall_bg_basicbg_orange.gif",
+                "seeking": 2,
+                "offering": 14,
+                "score": 12,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Pink Background",
+                "img": "https://images.neopets.com/items/mall_bg_basicbg_pink.gif",
+                "seeking": 4,
+                "offering": 9,
+                "score": 5,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Purple Background",
+                "img": "https://images.neopets.com/items/mall_bg_basicbg_purp.gif",
+                "seeking": 3,
+                "offering": 15,
+                "score": 12,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Red Background",
+                "img": "https://images.neopets.com/items/mall_bg_basicbg_red.gif",
+                "seeking": 2,
+                "offering": 16,
+                "score": 14,
+                "buyable": "no",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Essential White Background",
+                "img": "https://images.neopets.com/items/mall_bg_basicbg_white.gif",
+                "seeking": 6,
+                "offering": 13,
+                "score": 7,
+                "buyable": "no",
+                "owls": "Essentials Cap"
+            },
+            {
+                "name": "Essential Yellow Background",
+                "img": "https://images.neopets.com/items/mall_bg_basicbg_yellow.gif",
+                "seeking": 4,
+                "offering": 11,
+                "score": 7,
+                "buyable": "no",
+                "owls": "-"
+            }
+        ]
+    },
+    {
+        "name": "Tribal Mystery Capsule",
+        "img": "https://images.neopets.com/items/mall_mc_springtribal.gif",
+        "still_collecting_data": false,
+        "score_items": 94.3,
+        "number_items": 10,
+        "items": [
+            {
+                "name": "Blue Stone Archway Frame",
+                "img": "https://images.neopets.com/items/mall_trink_aztecarch.gif",
+                "seeking": 0,
+                "offering": 56,
+                "score": 56,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Colorful Feather Bouquet",
+                "img": "https://images.neopets.com/items/mall_hh_tribalbouquet.gif",
+                "seeking": 0,
+                "offering": 65,
+                "score": 65,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Colourful Tribal Print Garland",
+                "img": "https://images.neopets.com/items/mall_trink_tribalgarland.gif",
+                "seeking": 2,
+                "offering": 48,
+                "score": 46,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Tribal Makeup",
+                "img": "https://images.neopets.com/items/mall_acc_tribalfacepaint.gif",
+                "seeking": 33,
+                "offering": 32,
+                "score": -1,
+                "buyable": "no",
+                "owls": "4-6"
+            },
+            {
+                "name": "Tribal Print Lanterns",
+                "img": "https://images.neopets.com/items/mall_trink_triballantern.gif",
+                "seeking": 0,
+                "offering": 61,
+                "score": 61,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Tribal Print Purse",
+                "img": "https://images.neopets.com/items/mall_hh_tribalpurse.gif",
+                "seeking": 0,
+                "offering": 59,
+                "score": 59,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Tribal Print Top",
+                "img": "https://images.neopets.com/items/mall_clo_tribalshirt.gif",
+                "seeking": 1,
+                "offering": 66,
+                "score": 65,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Arrow Circlet and Wig",
+                "img": "https://images.neopets.com/items/mall_wig_tribalcirclet.gif",
+                "seeking": 0,
+                "offering": 320,
+                "score": 320,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Beach Picnic Background",
+                "img": "https://images.neopets.com/items/mall_bg_beachpicnic.gif",
+                "seeking": 15,
+                "offering": 196,
+                "score": 181,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Tribal Print Gown",
+                "img": "https://images.neopets.com/items/mall_dress_tribaldress.gif",
+                "seeking": 2,
+                "offering": 93,
+                "score": 91,
+                "buyable": "no",
+                "owls": "1-2"
+            }
+        ]
+    },
+    {
+        "name": "Dark Sorcerer Mystery Capsule",
+        "img": "https://images.neopets.com/items/mall_mc_darkarts.gif",
+        "still_collecting_data": false,
+        "score_items": 161.8,
+        "number_items": 10,
+        "items": [
+            {
+                "name": "Dark and Eerie Smoke",
+                "img": "https://images.neopets.com/items/mall_shower_eeriemystical.gif",
+                "seeking": 9,
+                "offering": 163,
+                "score": 154,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dark Floating Skull",
+                "img": "https://images.neopets.com/items/mall_acc_skullorb.gif",
+                "seeking": 0,
+                "offering": 175,
+                "score": 175,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dark Glitter Make Up",
+                "img": "https://images.neopets.com/items/mall_acc_mysticalmakeup.gif",
+                "seeking": 11,
+                "offering": 154,
+                "score": 143,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dark Mystical Book Foreground",
+                "img": "https://images.neopets.com/items/mall_fg_darkmysticalbook.gif",
+                "seeking": 6,
+                "offering": 129,
+                "score": 123,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dark Mystical Cape",
+                "img": "https://images.neopets.com/items/mall_cape_darkmystical.gif",
+                "seeking": 22,
+                "offering": 81,
+                "score": 59,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dark Mystical Shirt",
+                "img": "https://images.neopets.com/items/mall_shirt_darkmystical.gif",
+                "seeking": 0,
+                "offering": 179,
+                "score": 179,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Jars of Magic Foreground",
+                "img": "https://images.neopets.com/items/mall_fg_mysticalmasonjar.gif",
+                "seeking": 28,
+                "offering": 89,
+                "score": 61,
+                "buyable": "no",
+                "owls": "2-3"
+            },
+            {
+                "name": "Dark Burning Forest Background",
+                "img": "https://images.neopets.com/items/mall_bg_darkforest.gif",
+                "seeking": 20,
+                "offering": 202,
+                "score": 182,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dark Mystical Gown",
+                "img": "https://images.neopets.com/items/mall_gown_darkmystical.gif",
+                "seeking": 13,
+                "offering": 153,
+                "score": 140,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Spiked Crown and Wig",
+                "img": "https://images.neopets.com/items/mall_wig_eeriecrown.gif",
+                "seeking": 1,
+                "offering": 403,
+                "score": 402,
+                "buyable": "no",
+                "owls": "1-2"
+            }
+        ]
+    },
+    {
+        "name": "Dark Prism Mystery Capsule",
+        "img": "https://images.neopets.com/items/mall_mc_angryrainbow.gif",
+        "still_collecting_data": false,
+        "score_items": 145.1,
+        "number_items": 10,
+        "items": [
+            {
+                "name": "Dark Prism Bouquet",
+                "img": "https://images.neopets.com/items/mall_acc_darkflowerbouquet.gif",
+                "seeking": 2,
+                "offering": 121,
+                "score": 119,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dark Prism Gloves",
+                "img": "https://images.neopets.com/items/mall_acc_darkrainbowgloves.gif",
+                "seeking": 1,
+                "offering": 137,
+                "score": 136,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dark Prism Mask",
+                "img": "https://images.neopets.com/items/mall_acc_darkrainbowmask.gif",
+                "seeking": 2,
+                "offering": 143,
+                "score": 141,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dark Prism Mohawk",
+                "img": "https://images.neopets.com/items/mall_acc_angrybwig.gif",
+                "seeking": 3,
+                "offering": 99,
+                "score": 96,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dark Prism Side Tree",
+                "img": "https://images.neopets.com/items/mall_trink_rainbowsidetree.gif",
+                "seeking": 14,
+                "offering": 78,
+                "score": 64,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dark Prismatic Flowers Foreground",
+                "img": "https://images.neopets.com/items/mall_trink_rainbowflower.gif",
+                "seeking": 9,
+                "offering": 95,
+                "score": 86,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dark Prismatic Flowers Garland",
+                "img": "https://images.neopets.com/items/mall_gar_angryrbflower.gif",
+                "seeking": 1,
+                "offering": 115,
+                "score": 114,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dark Multicolour Suspender Ensemble",
+                "img": "https://images.neopets.com/items/mall_shirt_darkrainbow.gif",
+                "seeking": 3,
+                "offering": 100,
+                "score": 97,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dark Prism Contacts",
+                "img": "https://images.neopets.com/items/mall_acc_darkrainbowcontact.gif",
+                "seeking": 2,
+                "offering": 337,
+                "score": 335,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dark Prism Forest Background",
+                "img": "https://images.neopets.com/items/mall_bg_darkrainbow.gif",
+                "seeking": 4,
+                "offering": 267,
+                "score": 263,
+                "buyable": "no",
+                "owls": "1-2"
+            }
+        ]
+    },
+    {
+        "name": "Abnormal Fashions Mystery Capsule",
+        "img": "https://images.neopets.com/items/mall_mc_mutant.gif",
+        "still_collecting_data": false,
+        "score_items": 74.1,
+        "number_items": 9,
+        "items": [
+            {
+                "name": "Mutant Blue Glowing Contacts",
+                "img": "https://images.neopets.com/items/mall_acc_mutantcontacts.gif",
+                "seeking": 6,
+                "offering": 109,
+                "score": 103,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Mutant Faellie Handheld Plushie",
+                "img": "https://images.neopets.com/items/mall_hh_mutantplushie.gif",
+                "seeking": 6,
+                "offering": 54,
+                "score": 48,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Mutant Flower Foreground",
+                "img": "https://images.neopets.com/items/mall_fg_mutantflower.gif",
+                "seeking": 14,
+                "offering": 42,
+                "score": 28,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Mutant Gothic Embroidered Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_mutantshirt.gif",
+                "seeking": 1,
+                "offering": 65,
+                "score": 64,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Mutant Stylish Jet Black Wig",
+                "img": "https://images.neopets.com/items/mall_acc_mutantblackemo.gif",
+                "seeking": 4,
+                "offering": 65,
+                "score": 61,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Mutant Top Hat",
+                "img": "https://images.neopets.com/items/mall_acc_mutanthat.gif",
+                "seeking": 5,
+                "offering": 46,
+                "score": 41,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Escaped From the Lab Background",
+                "img": "https://images.neopets.com/items/mall_bg_brokentube.gif",
+                "seeking": 3,
+                "offering": 257,
+                "score": 254,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Mutant Elegant Burgundy Wig",
+                "img": "https://images.neopets.com/items/mall_acc_mutantgirlwig.gif",
+                "seeking": 8,
+                "offering": 35,
+                "score": 27,
+                "buyable": "no",
+                "owls": "2-3"
+            },
+            {
+                "name": "Mutant Pink Ruffle Dress",
+                "img": "https://images.neopets.com/items/mall_dress_mutant.gif",
+                "seeking": 2,
+                "offering": 43,
+                "score": 41,
+                "buyable": "no",
+                "owls": "2-3"
+            }
+        ]
+    },
+    {
+        "name": "Valiant Champion Mystery Capsule",
+        "img": "https://images.neopets.com/items/mall_mc_dragons.gif",
+        "still_collecting_data": false,
+        "score_items": 32.4,
+        "number_items": 9,
+        "items": [
+            {
+                "name": "Champions Fur Bracers",
+                "img": "https://images.neopets.com/items/mall_acc_furbracers.gif",
+                "seeking": 2,
+                "offering": 53,
+                "score": 51,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Valiant Champion Armoured Skirt",
+                "img": "https://images.neopets.com/items/mall_skirt_skullarmour.gif",
+                "seeking": 3,
+                "offering": 39,
+                "score": 36,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Valiant Champion Boots",
+                "img": "https://images.neopets.com/items/mall_shoes_furboots.gif",
+                "seeking": 1,
+                "offering": 49,
+                "score": 48,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Valiant Champion Shoulder Armour",
+                "img": "https://images.neopets.com/items/mall_acc_metalshoulder.gif",
+                "seeking": 2,
+                "offering": 41,
+                "score": 39,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Valiant Champion Warpaint",
+                "img": "https://images.neopets.com/items/mall_acc_warfp.gif",
+                "seeking": 5,
+                "offering": 32,
+                "score": 27,
+                "buyable": "no",
+                "owls": "2"
+            },
+            {
+                "name": "Valiant Sail Wings",
+                "img": "https://images.neopets.com/items/mall_wings_onewing.gif",
+                "seeking": 0,
+                "offering": 43,
+                "score": 43,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Braided Champions Helm",
+                "img": "https://images.neopets.com/items/mall_acc_drahelmet.gif",
+                "seeking": 0,
+                "offering": 29,
+                "score": 29,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Champions Dragoyle Shield",
+                "img": "https://images.neopets.com/items/mall_hh_scaleshield.gif",
+                "seeking": 6,
+                "offering": 23,
+                "score": 17,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Valiant Champion Coat",
+                "img": "https://images.neopets.com/items/mall_coat_fur.gif",
+                "seeking": 10,
+                "offering": 12,
+                "score": 2,
                 "buyable": "no",
                 "owls": "1-2"
             }
