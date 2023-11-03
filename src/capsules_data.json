@@ -46,8 +46,8 @@
                 "name": "Dress of Pearls",
                 "img": "https://images.neopets.com/items/mall_clo_pearldress.gif",
                 "seeking": 12,
-                "offering": 133,
-                "score": 121,
+                "offering": 132,
+                "score": 120,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -244,8 +244,8 @@
                 "name": "Fancy Floral Wig",
                 "img": "https://images.neopets.com/items/mall_acc_floralwig.gif",
                 "seeking": 6,
-                "offering": 147,
-                "score": 141,
+                "offering": 146,
+                "score": 140,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -414,9 +414,9 @@
             {
                 "name": "Bright Flower Cutout Background",
                 "img": "https://images.neopets.com/items/mall_back_flower_scissors_cuto.gif",
-                "seeking": 16,
+                "seeking": 15,
                 "offering": 74,
-                "score": 58,
+                "score": 59,
                 "buyable": "no",
                 "owls": "4-5"
             },
@@ -450,9 +450,9 @@
             {
                 "name": "Candlelit Walkway",
                 "img": "https://images.neopets.com/items/mall_bgi_candlelitwalk.gif",
-                "seeking": 15,
+                "seeking": 14,
                 "offering": 103,
-                "score": 88,
+                "score": 89,
                 "buyable": "no",
                 "owls": "2"
             },
@@ -460,8 +460,8 @@
                 "name": "Colourful Floral Arch",
                 "img": "https://images.neopets.com/items/mall_arch_colorful.gif",
                 "seeking": 5,
-                "offering": 154,
-                "score": 149,
+                "offering": 153,
+                "score": 148,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -504,9 +504,9 @@
             {
                 "name": "Feather Flower Garden Foreground",
                 "img": "https://images.neopets.com/items/mall_trink_felt_flower_fg.gif",
-                "seeking": 30,
+                "seeking": 29,
                 "offering": 66,
-                "score": 36,
+                "score": 37,
                 "buyable": "no",
                 "owls": "6-8"
             },
@@ -558,9 +558,9 @@
             {
                 "name": "Land of Magic Background",
                 "img": "https://images.neopets.com/items/mall_bg_landofmagic.gif",
-                "seeking": 33,
+                "seeking": 32,
                 "offering": 89,
-                "score": 56,
+                "score": 57,
                 "buyable": "no",
                 "owls": "4-5"
             },
