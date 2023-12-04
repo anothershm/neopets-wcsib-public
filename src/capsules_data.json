@@ -8,16 +8,16 @@
         "items": [
             {
                 "name": "Essential Black Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basicshirt_black.gif",
+                "img": "",
                 "seeking": 3,
                 "offering": 4,
                 "score": 1,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Blue Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basicshirt_blue.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 7,
                 "score": 6,
@@ -26,7 +26,7 @@
             },
             {
                 "name": "Essential Brown Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basicshirt_brown.gif",
+                "img": "",
                 "seeking": 0,
                 "offering": 8,
                 "score": 8,
@@ -35,7 +35,7 @@
             },
             {
                 "name": "Essential Green Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basicshirt_green.gif",
+                "img": "",
                 "seeking": 0,
                 "offering": 11,
                 "score": 11,
@@ -44,34 +44,34 @@
             },
             {
                 "name": "Essential Orange Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basicshirt_ornge.gif",
+                "img": "",
                 "seeking": 0,
                 "offering": 4,
                 "score": 4,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Pink Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basicshirt_pink.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 8,
                 "score": 7,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Purple Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basicshirt_purp.gif",
+                "img": "",
                 "seeking": 3,
                 "offering": 8,
                 "score": 5,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Red Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basicshirt_red.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 6,
                 "score": 5,
@@ -80,16 +80,16 @@
             },
             {
                 "name": "Essential White Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basicshirt_white.gif",
+                "img": "",
                 "seeking": 5,
                 "offering": 9,
                 "score": 4,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential Yellow Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basicshirt_yellw.gif",
+                "img": "",
                 "seeking": 2,
                 "offering": 6,
                 "score": 4,
@@ -98,25 +98,25 @@
             },
             {
                 "name": "Essential Black Long Sleeve Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_black.gif",
+                "img": "",
                 "seeking": 10,
                 "offering": 3,
                 "score": -7,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Blue Long Sleeve Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_blue.gif",
+                "img": "",
                 "seeking": 0,
                 "offering": 4,
                 "score": 4,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential Brown Long Sleeve Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_brown.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 6,
                 "score": 5,
@@ -125,16 +125,16 @@
             },
             {
                 "name": "Essential Green Long Sleeve Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_green.gif",
+                "img": "",
                 "seeking": 0,
                 "offering": 11,
                 "score": 11,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential Orange Long Sleeve Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_ornge.gif",
+                "img": "",
                 "seeking": 0,
                 "offering": 9,
                 "score": 9,
@@ -143,61 +143,61 @@
             },
             {
                 "name": "Essential Pink Long Sleeve Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_pink.gif",
+                "img": "",
                 "seeking": 3,
                 "offering": 6,
                 "score": 3,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Purple Long Sleeve Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_purp.gif",
+                "img": "",
                 "seeking": 0,
                 "offering": 7,
                 "score": 7,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Red Long Sleeve Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_red.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 14,
                 "score": 13,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential White Long Sleeve Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_white.gif",
+                "img": "",
                 "seeking": 6,
                 "offering": 5,
                 "score": -1,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Yellow Long Sleeve Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_basiclongshirt_yellow.gif",
+                "img": "",
                 "seeking": 2,
                 "offering": 9,
                 "score": 7,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Black Tank Top",
-                "img": "https://images.neopets.com/items/mall_clo_basictank_black.gif",
+                "img": "",
                 "seeking": 9,
                 "offering": 5,
                 "score": -4,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Blue Tank Top",
-                "img": "https://images.neopets.com/items/mall_clo_basictank_blue.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 8,
                 "score": 7,
@@ -206,7 +206,7 @@
             },
             {
                 "name": "Essential Brown Tank Top",
-                "img": "https://images.neopets.com/items/mall_clo_basictank_brown.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 6,
                 "score": 5,
@@ -215,34 +215,34 @@
             },
             {
                 "name": "Essential Green Tank Top",
-                "img": "https://images.neopets.com/items/mall_clo_basictank_green.gif",
+                "img": "",
                 "seeking": 3,
                 "offering": 14,
                 "score": 11,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential Orange Tank Top",
-                "img": "https://images.neopets.com/items/mall_clo_basictank_orange.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 8,
                 "score": 7,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Pink Tank Top",
-                "img": "https://images.neopets.com/items/mall_clo_basictank_pink.gif",
+                "img": "",
                 "seeking": 3,
                 "offering": 12,
                 "score": 9,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Purple Tank Top",
-                "img": "https://images.neopets.com/items/mall_clo_basictank_purp.gif",
+                "img": "",
                 "seeking": 2,
                 "offering": 14,
                 "score": 12,
@@ -251,7 +251,7 @@
             },
             {
                 "name": "Essential Red Tank Top",
-                "img": "https://images.neopets.com/items/mall_clo_basictank_red.gif",
+                "img": "",
                 "seeking": 0,
                 "offering": 8,
                 "score": 8,
@@ -260,16 +260,16 @@
             },
             {
                 "name": "Essential White Tank Top",
-                "img": "https://images.neopets.com/items/mall_clo_basictank_white.gif",
+                "img": "",
                 "seeking": 5,
                 "offering": 1,
                 "score": -4,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Yellow Tank Top",
-                "img": "https://images.neopets.com/items/mall_clo_basictank_yellow.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 6,
                 "score": 5,
@@ -278,214 +278,214 @@
             },
             {
                 "name": "Essential Black Cardigan",
-                "img": "https://images.neopets.com/items/mall_clo_basiccardi_black.gif",
+                "img": "",
                 "seeking": 7,
                 "offering": 14,
                 "score": 7,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential Blue Cardigan",
-                "img": "https://images.neopets.com/items/mall_clo_basiccardi_blue.gif",
+                "img": "",
                 "seeking": 5,
                 "offering": 7,
                 "score": 2,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Brown Cardigan",
-                "img": "https://images.neopets.com/items/mall_clo_basiccardi_brown.gif",
+                "img": "",
                 "seeking": 5,
                 "offering": 10,
                 "score": 5,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential Green Cardigan",
-                "img": "https://images.neopets.com/items/mall_clo_basiccardi_green.gif",
+                "img": "",
                 "seeking": 0,
                 "offering": 16,
                 "score": 16,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential Orange Cardigan",
-                "img": "https://images.neopets.com/items/mall_clo_basiccardi_orange.gif",
+                "img": "",
                 "seeking": 3,
                 "offering": 13,
                 "score": 10,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Pink Cardigan",
-                "img": "https://images.neopets.com/items/mall_clo_basiccardi_pink.gif",
+                "img": "",
                 "seeking": 2,
                 "offering": 8,
                 "score": 6,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Purple Cardigan",
-                "img": "https://images.neopets.com/items/mall_clo_basiccardi_purp.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 19,
                 "score": 18,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Red Cardigan",
-                "img": "https://images.neopets.com/items/mall_clo_basiccardi_red.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 12,
                 "score": 11,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential White Cardigan",
-                "img": "https://images.neopets.com/items/mall_clo_basiccardi_white.gif",
+                "img": "",
                 "seeking": 6,
                 "offering": 13,
                 "score": 7,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential Yellow Cardigan",
-                "img": "https://images.neopets.com/items/mall_clo_basiccardi_yellow.gif",
+                "img": "",
                 "seeking": 0,
                 "offering": 13,
                 "score": 13,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Black Hoodie",
-                "img": "https://images.neopets.com/items/mall_clo_basichoodie_black.gif",
+                "img": "",
                 "seeking": 13,
                 "offering": 9,
                 "score": -4,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Blue Hoodie",
-                "img": "https://images.neopets.com/items/mall_clo_basichoodie_blue.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 24,
                 "score": 23,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Brown Hoodie",
-                "img": "https://images.neopets.com/items/mall_clo_basichoodie_brown.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 22,
                 "score": 21,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Green Hoodie",
-                "img": "https://images.neopets.com/items/mall_clo_basichoodie_green.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 18,
                 "score": 17,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Orange Hoodie",
-                "img": "https://images.neopets.com/items/mall_clo_basichoodie_orange.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 21,
                 "score": 20,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential Pink Hoodie",
-                "img": "https://images.neopets.com/items/mall_clo_basichoodie_pink.gif",
+                "img": "",
                 "seeking": 5,
                 "offering": 10,
                 "score": 5,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Purple Hoodie",
-                "img": "https://images.neopets.com/items/mall_clo_basichoodie_purp.gif",
+                "img": "",
                 "seeking": 3,
                 "offering": 11,
                 "score": 8,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Red Hoodie",
-                "img": "https://images.neopets.com/items/mall_clo_basichoodie_red.gif",
+                "img": "",
                 "seeking": 0,
                 "offering": 24,
                 "score": 24,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential White Hoodie",
-                "img": "https://images.neopets.com/items/mall_clo_basichoodie_white.gif",
+                "img": "",
                 "seeking": 3,
                 "offering": 19,
                 "score": 16,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Yellow Hoodie",
-                "img": "https://images.neopets.com/items/mall_clo_basichoodie_yellow.gif",
+                "img": "",
                 "seeking": 0,
                 "offering": 17,
                 "score": 17,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential Black Pants",
-                "img": "https://images.neopets.com/items/mall_clo_basicpants_black.gif",
+                "img": "",
                 "seeking": 13,
                 "offering": 5,
                 "score": -8,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential Blue Pants",
-                "img": "https://images.neopets.com/items/mall_clo_basicpants_blue.gif",
+                "img": "",
                 "seeking": 4,
                 "offering": 13,
                 "score": 9,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential Brown Pants",
-                "img": "https://images.neopets.com/items/mall_clo_basicpants_brown.gif",
+                "img": "",
                 "seeking": 2,
                 "offering": 9,
                 "score": 7,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential Green Pants",
-                "img": "https://images.neopets.com/items/mall_clo_basicpants_green.gif",
+                "img": "",
                 "seeking": 3,
                 "offering": 16,
                 "score": 13,
@@ -494,61 +494,61 @@
             },
             {
                 "name": "Essential Orange Pants",
-                "img": "https://images.neopets.com/items/mall_clo_basicpants_orange.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 23,
                 "score": 22,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Pink Pants",
-                "img": "https://images.neopets.com/items/mall_clo_basicpants_pink.gif",
+                "img": "",
                 "seeking": 4,
                 "offering": 10,
                 "score": 6,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential Purple Pants",
-                "img": "https://images.neopets.com/items/mall_clo_basicpants_purp.gif",
+                "img": "",
                 "seeking": 2,
                 "offering": 10,
                 "score": 8,
                 "buyable": "no",
-                "owls": "Buyable"
+                "owls": "-"
             },
             {
                 "name": "Essential Red Pants",
-                "img": "https://images.neopets.com/items/mall_clo_basicpants_red.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 12,
                 "score": 11,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential White Pants",
-                "img": "https://images.neopets.com/items/mall_clo_basicpants_white.gif",
+                "img": "",
                 "seeking": 5,
                 "offering": 8,
                 "score": 3,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Yellow Pants",
-                "img": "https://images.neopets.com/items/mall_clo_basicpants_yellow.gif",
+                "img": "",
                 "seeking": 2,
                 "offering": 15,
                 "score": 13,
                 "buyable": "no",
-                "owls": "Essentials Cap"
+                "owls": "-"
             },
             {
                 "name": "Essential Black Shorts",
-                "img": "https://images.neopets.com/items/mall_clo_basicshorts_black.gif",
+                "img": "",
                 "seeking": 10,
                 "offering": 6,
                 "score": -4,
@@ -557,7 +557,7 @@
             },
             {
                 "name": "Essential Blue Shorts",
-                "img": "https://images.neopets.com/items/mall_clo_basicshorts_blue.gif",
+                "img": "",
                 "seeking": 3,
                 "offering": 9,
                 "score": 6,
@@ -566,7 +566,7 @@
             },
             {
                 "name": "Essential Brown Shorts",
-                "img": "https://images.neopets.com/items/mall_clo_basicshorts_brown.gif",
+                "img": "",
                 "seeking": 2,
                 "offering": 9,
                 "score": 7,
@@ -775,8 +775,8 @@
                 "name": "Essential Pink Filter",
                 "img": "",
                 "seeking": 14,
-                "offering": 72,
-                "score": 58,
+                "offering": 73,
+                "score": 59,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -912,15 +912,15 @@
         "name": "Tribal Mystery Capsule",
         "img": "https://images.neopets.com/items/mall_mc_springtribal.gif",
         "still_collecting_data": false,
-        "score_items": 94.6,
+        "score_items": 94.7,
         "number_items": 10,
         "items": [
             {
                 "name": "Blue Stone Archway Frame",
                 "img": "",
                 "seeking": 0,
-                "offering": 58,
-                "score": 58,
+                "offering": 57,
+                "score": 57,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -937,8 +937,8 @@
                 "name": "Colourful Tribal Print Garland",
                 "img": "",
                 "seeking": 1,
-                "offering": 49,
-                "score": 48,
+                "offering": 50,
+                "score": 49,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -964,8 +964,8 @@
                 "name": "Tribal Print Purse",
                 "img": "",
                 "seeking": 0,
-                "offering": 58,
-                "score": 58,
+                "offering": 59,
+                "score": 59,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1011,7 +1011,7 @@
         "name": "Dark Sorcerer Mystery Capsule",
         "img": "https://images.neopets.com/items/mall_mc_darkarts.gif",
         "still_collecting_data": false,
-        "score_items": 167.5,
+        "score_items": 167.3,
         "number_items": 10,
         "items": [
             {
@@ -1027,8 +1027,8 @@
                 "name": "Dark Floating Skull",
                 "img": "",
                 "seeking": 0,
-                "offering": 187,
-                "score": 187,
+                "offering": 186,
+                "score": 186,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1045,8 +1045,8 @@
                 "name": "Dark Mystical Book Foreground",
                 "img": "",
                 "seeking": 5,
-                "offering": 142,
-                "score": 137,
+                "offering": 141,
+                "score": 136,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1063,8 +1063,8 @@
                 "name": "Dark Mystical Shirt",
                 "img": "",
                 "seeking": 1,
-                "offering": 187,
-                "score": 186,
+                "offering": 186,
+                "score": 185,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1081,8 +1081,8 @@
                 "name": "Dark Burning Forest Background",
                 "img": "",
                 "seeking": 24,
-                "offering": 199,
-                "score": 175,
+                "offering": 200,
+                "score": 176,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1110,15 +1110,15 @@
         "name": "Dark Prism Mystery Capsule",
         "img": "https://images.neopets.com/items/mall_mc_angryrainbow.gif",
         "still_collecting_data": false,
-        "score_items": 151.0,
+        "score_items": 150.5,
         "number_items": 10,
         "items": [
             {
                 "name": "Dark Prism Bouquet",
                 "img": "",
                 "seeking": 3,
-                "offering": 127,
-                "score": 124,
+                "offering": 126,
+                "score": 123,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1135,8 +1135,8 @@
                 "name": "Dark Prism Mask",
                 "img": "",
                 "seeking": 2,
-                "offering": 152,
-                "score": 150,
+                "offering": 151,
+                "score": 149,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1171,8 +1171,8 @@
                 "name": "Dark Prismatic Flowers Garland",
                 "img": "",
                 "seeking": 1,
-                "offering": 131,
-                "score": 130,
+                "offering": 129,
+                "score": 128,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1180,8 +1180,8 @@
                 "name": "Dark Multicolour Suspender Ensemble",
                 "img": "",
                 "seeking": 3,
-                "offering": 107,
-                "score": 104,
+                "offering": 106,
+                "score": 103,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1209,15 +1209,15 @@
         "name": "Abnormal Fashions Mystery Capsule",
         "img": "https://images.neopets.com/items/mall_mc_mutant.gif",
         "still_collecting_data": false,
-        "score_items": 73.9,
+        "score_items": 73.4,
         "number_items": 9,
         "items": [
             {
                 "name": "Mutant Blue Glowing Contacts",
                 "img": "",
-                "seeking": 7,
+                "seeking": 8,
                 "offering": 111,
-                "score": 104,
+                "score": 103,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1251,9 +1251,9 @@
             {
                 "name": "Mutant Stylish Jet Black Wig",
                 "img": "",
-                "seeking": 4,
+                "seeking": 5,
                 "offering": 69,
-                "score": 65,
+                "score": 64,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1270,26 +1270,26 @@
                 "name": "Escaped From the Lab Background",
                 "img": "",
                 "seeking": 7,
-                "offering": 253,
-                "score": 246,
+                "offering": 254,
+                "score": 247,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Mutant Elegant Burgundy Wig",
                 "img": "",
-                "seeking": 7,
+                "seeking": 8,
                 "offering": 36,
-                "score": 29,
+                "score": 28,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Mutant Pink Ruffle Dress",
                 "img": "",
-                "seeking": 4,
-                "offering": 46,
-                "score": 42,
+                "seeking": 5,
+                "offering": 45,
+                "score": 40,
                 "buyable": "no",
                 "owls": "-"
             }
@@ -1299,15 +1299,15 @@
         "name": "Valiant Champion Mystery Capsule",
         "img": "https://images.neopets.com/items/mall_mc_dragons.gif",
         "still_collecting_data": false,
-        "score_items": 33.2,
+        "score_items": 33.1,
         "number_items": 9,
         "items": [
             {
                 "name": "Champions Fur Bracers",
                 "img": "",
                 "seeking": 3,
-                "offering": 52,
-                "score": 49,
+                "offering": 51,
+                "score": 48,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1315,8 +1315,8 @@
                 "name": "Valiant Champion Armoured Skirt",
                 "img": "",
                 "seeking": 4,
-                "offering": 40,
-                "score": 36,
+                "offering": 41,
+                "score": 37,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1360,8 +1360,8 @@
                 "name": "Braided Champions Helm",
                 "img": "",
                 "seeking": 0,
-                "offering": 32,
-                "score": 32,
+                "offering": 31,
+                "score": 31,
                 "buyable": "no",
                 "owls": "-"
             },
