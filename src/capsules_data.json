@@ -1384,23 +1384,5 @@
                 "owls": "-"
             }
         ]
-    },
-    {
-        "name": "Cutie Pie Weewoo Gift Box Mystery Capsule",
-        "img": "https://images.neopets.com/items/mall_gbmc_cutiepieweewoo.gif",
-        "still_collecting_data": false,
-        "score_items": 0.0,
-        "number_items": 1,
-        "items": [
-            {
-                "name": "Cutie Pie Weewoo Gift Box",
-                "img": "https://images.neopets.com/items/mall_gb_cutiepieweewoo.gif",
-                "seeking": 0,
-                "offering": 0,
-                "score": 0,
-                "buyable": "no",
-                "owls": "-"
-            }
-        ]
     }
 ]
