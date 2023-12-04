@@ -1384,5 +1384,122 @@
                 "owls": "-"
             }
         ]
+    },
+    {
+        "name": "Dreamy Gingerbread Gift Box Mystery Capsule",
+        "img": "",
+        "still_collecting_data": false,
+        "score_items": 0.0,
+        "number_items": 1,
+        "items": [
+            {
+                "name": "Dreamy Gingerbread Gift Box",
+                "img": "",
+                "seeking": 0,
+                "offering": 0,
+                "score": 0,
+                "buyable": "no",
+                "owls": "-"
+            }
+        ]
+    },
+    {
+        "name": "Gleaming Gothic Baby Mystery Capsule",
+        "img": "",
+        "still_collecting_data": false,
+        "score_items": 76.0,
+        "number_items": 10,
+        "items": [
+            {
+                "name": "Baby Barbat Plushie Handheld",
+                "img": "",
+                "seeking": 16,
+                "offering": 105,
+                "score": 89,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Gothic Bob Wig",
+                "img": "",
+                "seeking": 28,
+                "offering": 110,
+                "score": 82,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Gothic Bonnet",
+                "img": "",
+                "seeking": 14,
+                "offering": 106,
+                "score": 92,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Gothic Mobile",
+                "img": "",
+                "seeking": 10,
+                "offering": 122,
+                "score": 112,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Gothic Striped Dress",
+                "img": "",
+                "seeking": 15,
+                "offering": 99,
+                "score": 84,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Gothic Striped Overalls",
+                "img": "",
+                "seeking": 17,
+                "offering": 103,
+                "score": 86,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Gothic Baby Binky",
+                "img": "",
+                "seeking": 13,
+                "offering": 104,
+                "score": 91,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Barbat Costume",
+                "img": "",
+                "seeking": 30,
+                "offering": 59,
+                "score": 29,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Barbat Petpet Companion",
+                "img": "",
+                "seeking": 12,
+                "offering": 70,
+                "score": 58,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Gothic Nursery Background",
+                "img": "",
+                "seeking": 21,
+                "offering": 58,
+                "score": 37,
+                "buyable": "no",
+                "owls": "-"
+            }
+        ]
     }
 ]
