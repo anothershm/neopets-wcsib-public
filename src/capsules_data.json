@@ -912,21 +912,48 @@
         "name": "Tribal Mystery Capsule",
         "img": "https://images.neopets.com/items/mall_mc_springtribal.gif",
         "still_collecting_data": false,
-        "score_items": 94.9,
+        "score_items": 98.0,
         "number_items": 10,
         "items": [
             {
                 "name": "Blue Stone Archway Frame",
-                "img": "https://images.neopets.com/items/mall_trink_aztecarch.gif",
+                "img": "",
                 "seeking": 0,
-                "offering": 57,
-                "score": 57,
+                "offering": 58,
+                "score": 58,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Colorful Feather Bouquet",
-                "img": "https://images.neopets.com/items/mall_hh_tribalbouquet.gif",
+                "img": "",
+                "seeking": 0,
+                "offering": 69,
+                "score": 69,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Colourful Tribal Print Garland",
+                "img": "",
+                "seeking": 1,
+                "offering": 54,
+                "score": 53,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Tribal Makeup",
+                "img": "",
+                "seeking": 33,
+                "offering": 31,
+                "score": -2,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Tribal Print Lanterns",
+                "img": "",
                 "seeking": 0,
                 "offering": 68,
                 "score": 68,
@@ -934,26 +961,8 @@
                 "owls": "-"
             },
             {
-                "name": "Colourful Tribal Print Garland",
-                "img": "https://images.neopets.com/items/mall_trink_tribalgarland.gif",
-                "seeking": 1,
-                "offering": 51,
-                "score": 50,
-                "buyable": "no",
-                "owls": "-"
-            },
-            {
-                "name": "Tribal Makeup",
-                "img": "https://images.neopets.com/items/mall_acc_tribalfacepaint.gif",
-                "seeking": 37,
-                "offering": 32,
-                "score": -5,
-                "buyable": "no",
-                "owls": "4-6"
-            },
-            {
-                "name": "Tribal Print Lanterns",
-                "img": "https://images.neopets.com/items/mall_trink_triballantern.gif",
+                "name": "Tribal Print Purse",
+                "img": "",
                 "seeking": 0,
                 "offering": 64,
                 "score": 64,
@@ -961,26 +970,17 @@
                 "owls": "-"
             },
             {
-                "name": "Tribal Print Purse",
-                "img": "https://images.neopets.com/items/mall_hh_tribalpurse.gif",
-                "seeking": 0,
-                "offering": 59,
-                "score": 59,
-                "buyable": "no",
-                "owls": "-"
-            },
-            {
                 "name": "Tribal Print Top",
-                "img": "https://images.neopets.com/items/mall_clo_tribalshirt.gif",
+                "img": "",
                 "seeking": 1,
-                "offering": 68,
-                "score": 67,
+                "offering": 74,
+                "score": 73,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Arrow Circlet and Wig",
-                "img": "https://images.neopets.com/items/mall_wig_tribalcirclet.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 325,
                 "score": 324,
@@ -989,21 +989,21 @@
             },
             {
                 "name": "Beach Picnic Background",
-                "img": "https://images.neopets.com/items/mall_bg_beachpicnic.gif",
-                "seeking": 21,
-                "offering": 193,
-                "score": 172,
+                "img": "",
+                "seeking": 20,
+                "offering": 197,
+                "score": 177,
                 "buyable": "no",
-                "owls": "1-2"
+                "owls": "-"
             },
             {
                 "name": "Tribal Print Gown",
-                "img": "https://images.neopets.com/items/mall_dress_tribaldress.gif",
+                "img": "",
                 "seeking": 3,
-                "offering": 96,
-                "score": 93,
+                "offering": 99,
+                "score": 96,
                 "buyable": "no",
-                "owls": "1-2"
+                "owls": "-"
             }
         ]
     },
@@ -1011,15 +1011,15 @@
         "name": "Dark Sorcerer Mystery Capsule",
         "img": "https://images.neopets.com/items/mall_mc_darkarts.gif",
         "still_collecting_data": false,
-        "score_items": 167.3,
+        "score_items": 175.4,
         "number_items": 10,
         "items": [
             {
                 "name": "Dark and Eerie Smoke",
                 "img": "",
-                "seeking": 9,
-                "offering": 173,
-                "score": 164,
+                "seeking": 14,
+                "offering": 179,
+                "score": 165,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1027,35 +1027,35 @@
                 "name": "Dark Floating Skull",
                 "img": "",
                 "seeking": 0,
-                "offering": 186,
-                "score": 186,
+                "offering": 197,
+                "score": 197,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Dark Glitter Make Up",
                 "img": "",
-                "seeking": 10,
-                "offering": 161,
-                "score": 151,
+                "seeking": 9,
+                "offering": 171,
+                "score": 162,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Dark Mystical Book Foreground",
                 "img": "",
-                "seeking": 5,
-                "offering": 141,
-                "score": 136,
+                "seeking": 6,
+                "offering": 147,
+                "score": 141,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Dark Mystical Cape",
                 "img": "",
-                "seeking": 25,
-                "offering": 86,
-                "score": 61,
+                "seeking": 26,
+                "offering": 92,
+                "score": 66,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1063,35 +1063,35 @@
                 "name": "Dark Mystical Shirt",
                 "img": "",
                 "seeking": 1,
-                "offering": 186,
-                "score": 185,
+                "offering": 202,
+                "score": 201,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Jars of Magic Foreground",
                 "img": "",
-                "seeking": 28,
-                "offering": 87,
-                "score": 59,
+                "seeking": 30,
+                "offering": 95,
+                "score": 65,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Dark Burning Forest Background",
                 "img": "",
-                "seeking": 24,
-                "offering": 200,
-                "score": 176,
+                "seeking": 25,
+                "offering": 213,
+                "score": 188,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Dark Mystical Gown",
                 "img": "",
-                "seeking": 12,
-                "offering": 164,
-                "score": 152,
+                "seeking": 14,
+                "offering": 168,
+                "score": 154,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1099,8 +1099,8 @@
                 "name": "Spiked Crown and Wig",
                 "img": "",
                 "seeking": 1,
-                "offering": 404,
-                "score": 403,
+                "offering": 416,
+                "score": 415,
                 "buyable": "no",
                 "owls": "-"
             }
@@ -1110,21 +1110,21 @@
         "name": "Dark Prism Mystery Capsule",
         "img": "https://images.neopets.com/items/mall_mc_angryrainbow.gif",
         "still_collecting_data": false,
-        "score_items": 127.7,
+        "score_items": 156.1,
         "number_items": 10,
         "items": [
             {
                 "name": "Dark Prism Bouquet",
-                "img": "https://images.neopets.com/items/mall_acc_darkflowerbouquet.gif",
-                "seeking": 5,
-                "offering": 131,
-                "score": 126,
+                "img": "",
+                "seeking": 6,
+                "offering": 137,
+                "score": 131,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Dark Prism Gloves",
-                "img": "https://images.neopets.com/items/mall_acc_darkrainbowgloves.gif",
+                "img": "",
                 "seeking": 1,
                 "offering": 151,
                 "score": 150,
@@ -1133,75 +1133,75 @@
             },
             {
                 "name": "Dark Prism Mask",
-                "img": "https://images.neopets.com/items/mall_acc_darkrainbowmask.gif",
+                "img": "",
                 "seeking": 2,
-                "offering": 152,
-                "score": 150,
+                "offering": 153,
+                "score": 151,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Dark Prism Mohawk",
-                "img": "https://images.neopets.com/items/mall_acc_angrybwig.gif",
+                "img": "",
                 "seeking": 3,
-                "offering": 111,
-                "score": 108,
+                "offering": 117,
+                "score": 114,
                 "buyable": "no",
-                "owls": "1-2"
+                "owls": "-"
             },
             {
                 "name": "Dark Prism Side Tree",
-                "img": "https://images.neopets.com/items/mall_trink_rainbowsidetree.gif",
+                "img": "",
                 "seeking": 14,
-                "offering": 86,
-                "score": 72,
+                "offering": 87,
+                "score": 73,
                 "buyable": "no",
-                "owls": "1-2"
+                "owls": "-"
             },
             {
                 "name": "Dark Prismatic Flowers Foreground",
-                "img": "https://images.neopets.com/items/mall_trink_rainbowflower.gif",
-                "seeking": 7,
-                "offering": 98,
-                "score": 91,
+                "img": "",
+                "seeking": 8,
+                "offering": 101,
+                "score": 93,
                 "buyable": "no",
-                "owls": "1-2"
+                "owls": "-"
             },
             {
                 "name": "Dark Prismatic Flowers Garland",
-                "img": "https://images.neopets.com/items/mall_gar_angryrbflower.gif",
+                "img": "",
                 "seeking": 1,
-                "offering": 130,
-                "score": 129,
+                "offering": 136,
+                "score": 135,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Dark Multicolour Suspender Ensemble",
-                "img": "https://images.neopets.com/items/mall_shirt_darkrainbow.gif",
+                "img": "",
                 "seeking": 2,
-                "offering": 112,
-                "score": 110,
+                "offering": 118,
+                "score": 116,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Dark Prism Contacts",
-                "img": "https://images.neopets.com/items/mall_acc_darkrainbowcontact.gif",
+                "img": "",
                 "seeking": 3,
                 "offering": 344,
                 "score": 341,
                 "buyable": "no",
-                "owls": "1-2"
+                "owls": "-"
             },
             {
                 "name": "Dark Prism Forest Background",
-                "img": "https://images.neopets.com/items/mall_bg_darkrainbow.gif",
-                "seeking": 0,
-                "offering": 0,
-                "score": 0,
+                "img": "",
+                "seeking": 4,
+                "offering": 261,
+                "score": 257,
                 "buyable": "no",
-                "owls": "1-2"
+                "owls": "-"
             }
         ]
     },
@@ -1209,87 +1209,87 @@
         "name": "Abnormal Fashions Mystery Capsule",
         "img": "https://images.neopets.com/items/mall_mc_mutant.gif",
         "still_collecting_data": false,
-        "score_items": 54.9,
+        "score_items": 76.3,
         "number_items": 9,
         "items": [
             {
                 "name": "Mutant Blue Glowing Contacts",
-                "img": "https://images.neopets.com/items/mall_acc_mutantcontacts.gif",
-                "seeking": 0,
-                "offering": 0,
-                "score": 0,
+                "img": "",
+                "seeking": 9,
+                "offering": 116,
+                "score": 107,
                 "buyable": "no",
-                "owls": "1-2"
+                "owls": "-"
             },
             {
                 "name": "Mutant Faellie Handheld Plushie",
-                "img": "https://images.neopets.com/items/mall_hh_mutantplushie.gif",
-                "seeking": 0,
-                "offering": 0,
-                "score": 0,
+                "img": "",
+                "seeking": 6,
+                "offering": 55,
+                "score": 49,
                 "buyable": "no",
-                "owls": "1-2"
+                "owls": "-"
             },
             {
                 "name": "Mutant Flower Foreground",
-                "img": "https://images.neopets.com/items/mall_fg_mutantflower.gif",
-                "seeking": 0,
-                "offering": 0,
-                "score": 0,
+                "img": "",
+                "seeking": 16,
+                "offering": 44,
+                "score": 28,
                 "buyable": "no",
-                "owls": "1-2"
+                "owls": "-"
             },
             {
                 "name": "Mutant Gothic Embroidered Shirt",
-                "img": "https://images.neopets.com/items/mall_clo_mutantshirt.gif",
+                "img": "",
                 "seeking": 1,
-                "offering": 73,
-                "score": 72,
+                "offering": 76,
+                "score": 75,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Mutant Stylish Jet Black Wig",
-                "img": "https://images.neopets.com/items/mall_acc_mutantblackemo.gif",
+                "img": "",
                 "seeking": 5,
-                "offering": 71,
-                "score": 66,
+                "offering": 75,
+                "score": 70,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Mutant Top Hat",
-                "img": "https://images.neopets.com/items/mall_acc_mutanthat.gif",
-                "seeking": 6,
-                "offering": 45,
-                "score": 39,
+                "img": "",
+                "seeking": 7,
+                "offering": 48,
+                "score": 41,
                 "buyable": "no",
-                "owls": "1-2"
+                "owls": "-"
             },
             {
                 "name": "Escaped From the Lab Background",
-                "img": "https://images.neopets.com/items/mall_bg_brokentube.gif",
-                "seeking": 8,
-                "offering": 256,
-                "score": 248,
+                "img": "",
+                "seeking": 6,
+                "offering": 251,
+                "score": 245,
                 "buyable": "no",
-                "owls": "1-2"
+                "owls": "-"
             },
             {
                 "name": "Mutant Elegant Burgundy Wig",
-                "img": "https://images.neopets.com/items/mall_acc_mutantgirlwig.gif",
-                "seeking": 8,
-                "offering": 35,
-                "score": 27,
+                "img": "",
+                "seeking": 9,
+                "offering": 37,
+                "score": 28,
                 "buyable": "no",
-                "owls": "2-3"
+                "owls": "-"
             },
             {
                 "name": "Mutant Pink Ruffle Dress",
                 "img": "https://images.neopets.com/items/mall_dress_mutant.gif",
                 "seeking": 4,
-                "offering": 46,
-                "score": 42,
+                "offering": 48,
+                "score": 44,
                 "buyable": "no",
                 "owls": "2-3"
             }
@@ -1299,15 +1299,15 @@
         "name": "Valiant Champion Mystery Capsule",
         "img": "https://images.neopets.com/items/mall_mc_dragons.gif",
         "still_collecting_data": false,
-        "score_items": 33.3,
+        "score_items": 35.3,
         "number_items": 9,
         "items": [
             {
                 "name": "Champions Fur Bracers",
                 "img": "https://images.neopets.com/items/mall_acc_furbracers.gif",
                 "seeking": 4,
-                "offering": 52,
-                "score": 48,
+                "offering": 53,
+                "score": 49,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1315,8 +1315,8 @@
                 "name": "Valiant Champion Armoured Skirt",
                 "img": "https://images.neopets.com/items/mall_skirt_skullarmour.gif",
                 "seeking": 4,
-                "offering": 39,
-                "score": 35,
+                "offering": 43,
+                "score": 39,
                 "buyable": "no",
                 "owls": "1-2"
             },
@@ -1324,8 +1324,8 @@
                 "name": "Valiant Champion Boots",
                 "img": "https://images.neopets.com/items/mall_shoes_furboots.gif",
                 "seeking": 1,
-                "offering": 46,
-                "score": 45,
+                "offering": 49,
+                "score": 48,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1333,17 +1333,17 @@
                 "name": "Valiant Champion Shoulder Armour",
                 "img": "https://images.neopets.com/items/mall_acc_metalshoulder.gif",
                 "seeking": 3,
-                "offering": 43,
-                "score": 40,
+                "offering": 47,
+                "score": 44,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Valiant Champion Warpaint",
                 "img": "https://images.neopets.com/items/mall_acc_warfp.gif",
-                "seeking": 3,
+                "seeking": 4,
                 "offering": 34,
-                "score": 31,
+                "score": 30,
                 "buyable": "no",
                 "owls": "2"
             },
@@ -1351,8 +1351,8 @@
                 "name": "Valiant Sail Wings",
                 "img": "https://images.neopets.com/items/mall_wings_onewing.gif",
                 "seeking": 0,
-                "offering": 50,
-                "score": 50,
+                "offering": 51,
+                "score": 51,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1360,17 +1360,17 @@
                 "name": "Braided Champions Helm",
                 "img": "https://images.neopets.com/items/mall_acc_drahelmet.gif",
                 "seeking": 0,
-                "offering": 32,
-                "score": 32,
+                "offering": 35,
+                "score": 35,
                 "buyable": "no",
                 "owls": "-"
             },
             {
                 "name": "Champions Dragoyle Shield",
                 "img": "https://images.neopets.com/items/mall_hh_scaleshield.gif",
-                "seeking": 7,
-                "offering": 23,
-                "score": 16,
+                "seeking": 8,
+                "offering": 25,
+                "score": 17,
                 "buyable": "no",
                 "owls": "-"
             },
@@ -1378,8 +1378,8 @@
                 "name": "Valiant Champion Coat",
                 "img": "https://images.neopets.com/items/mall_coat_fur.gif",
                 "seeking": 11,
-                "offering": 14,
-                "score": 3,
+                "offering": 16,
+                "score": 5,
                 "buyable": "no",
                 "owls": "1-2"
             }
@@ -1394,7 +1394,7 @@
         "items": [
             {
                 "name": "Dreamy Gingerbread Gift Box",
-                "img": "",
+                "img": "https://images.neopets.com/items/mall_gb_gingerbreadhouse.gif",
                 "seeking": 0,
                 "offering": 0,
                 "score": 0,
@@ -1407,15 +1407,15 @@
         "name": "Gleaming Gothic Baby Mystery Capsule",
         "img": "",
         "still_collecting_data": false,
-        "score_items": 103.0,
+        "score_items": 122.0,
         "number_items": 10,
         "items": [
             {
                 "name": "Baby Barbat Plushie Handheld",
                 "img": "https://images.neopets.com/items/mall_acc_baby_barbatplushie.gif",
-                "seeking": 12,
-                "offering": 131,
-                "score": 119,
+                "seeking": 17,
+                "offering": 155,
+                "score": 138,
                 "buyable": "no",
                 "owls": "Cap item - Dec 2023"
             },
@@ -1423,82 +1423,2062 @@
                 "name": "Baby Gothic Bob Wig",
                 "img": "https://images.neopets.com/items/mall_acc_baby_gothwig.gif",
                 "seeking": 25,
-                "offering": 142,
-                "score": 117,
+                "offering": 165,
+                "score": 140,
                 "buyable": "no",
                 "owls": "Cap item - Dec 2023"
             },
             {
                 "name": "Baby Gothic Bonnet",
                 "img": "https://images.neopets.com/items/mall_acc_baby_gothbonnet.gif",
-                "seeking": 11,
-                "offering": 133,
-                "score": 122,
+                "seeking": 17,
+                "offering": 156,
+                "score": 139,
                 "buyable": "no",
                 "owls": "Cap item - Dec 2023"
             },
             {
                 "name": "Baby Gothic Mobile",
                 "img": "https://images.neopets.com/items/mall_trink_gothmobile.gif",
-                "seeking": 11,
-                "offering": 144,
-                "score": 133,
+                "seeking": 13,
+                "offering": 175,
+                "score": 162,
                 "buyable": "no",
                 "owls": "Cap item - Dec 2023"
             },
             {
                 "name": "Baby Gothic Striped Dress",
                 "img": "https://images.neopets.com/items/mall_clo_baby_gothdress.gif",
-                "seeking": 12,
-                "offering": 128,
-                "score": 116,
+                "seeking": 15,
+                "offering": 155,
+                "score": 140,
                 "buyable": "no",
                 "owls": "Cap item - Dec 2023"
             },
             {
                 "name": "Baby Gothic Striped Overalls",
                 "img": "https://images.neopets.com/items/mall_clo_baby_gothoveralls.gif",
-                "seeking": 15,
-                "offering": 137,
-                "score": 122,
+                "seeking": 19,
+                "offering": 162,
+                "score": 143,
                 "buyable": "no",
                 "owls": "Cap item - Dec 2023"
             },
             {
                 "name": "Gothic Baby Binky",
                 "img": "https://images.neopets.com/items/mall_acc_baby_gothbinky.gif",
-                "seeking": 9,
-                "offering": 131,
-                "score": 122,
+                "seeking": 12,
+                "offering": 156,
+                "score": 144,
                 "buyable": "no",
                 "owls": "Cap item - Dec 2023"
             },
             {
                 "name": "Baby Barbat Costume",
                 "img": "https://images.neopets.com/items/mall_clo_baby_barbatcostume.gif",
-                "seeking": 28,
-                "offering": 73,
-                "score": 45,
+                "seeking": 30,
+                "offering": 85,
+                "score": 55,
                 "buyable": "no",
                 "owls": "Cap item - Dec 2023"
             },
             {
                 "name": "Baby Barbat Petpet Companion",
                 "img": "https://images.neopets.com/items/mall_acc_baby_barbatcompanion.gif",
-                "seeking": 12,
-                "offering": 88,
-                "score": 76,
+                "seeking": 16,
+                "offering": 107,
+                "score": 91,
                 "buyable": "no",
                 "owls": "Cap item - Dec 2023"
             },
             {
                 "name": "Baby Gothic Nursery Background",
                 "img": "https://images.neopets.com/items/mall_bg_gothicnursery.gif",
-                "seeking": 21,
-                "offering": 79,
-                "score": 58,
+                "seeking": 24,
+                "offering": 92,
+                "score": 68,
                 "buyable": "no",
                 "owls": "Cap item - Dec 2023"
+            }
+        ]
+    },
+    {
+        "name": "Baby Barbat Retired Mystery Capsule",
+        "img": "https://images.neopets.com/items/mall_mc_babygothretired.gif",
+        "still_collecting_data": true,
+        "score_items": 93.1,
+        "number_items": 219,
+        "items": [
+            {
+                "name": "Autumn Baby Dress",
+                "img": "https://images.neopets.com/items/mall_dress_summerbaby.gif",
+                "seeking": 6,
+                "offering": 124,
+                "score": 118,
+                "buyable": "no",
+                "owls": "2-3"
+            },
+            {
+                "name": "Baby All Star Cheerleading Outfit",
+                "img": "https://images.neopets.com/items/mall_clo_babycheer.gif",
+                "seeking": 6,
+                "offering": 58,
+                "score": 52,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Altadorian Toga",
+                "img": "https://images.neopets.com/items/mall_clo_baby_toga.gif",
+                "seeking": 6,
+                "offering": 24,
+                "score": 18,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Anchor Trousers",
+                "img": "https://images.neopets.com/items/mall_pants_babyanchor.gif",
+                "seeking": 2,
+                "offering": 175,
+                "score": 173,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Astronaut Adventurer Outfit",
+                "img": "https://images.neopets.com/items/mall_clo_babyastronaut.gif",
+                "seeking": 12,
+                "offering": 156,
+                "score": 144,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Autumnal Overalls",
+                "img": "https://images.neopets.com/items/mall_clo_baby_falloveralls.gif",
+                "seeking": 14,
+                "offering": 57,
+                "score": 43,
+                "buyable": "yes",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Baby Bandana Bib",
+                "img": "https://images.neopets.com/items/mall_acc_babybib.gif",
+                "seeking": 8,
+                "offering": 194,
+                "score": 186,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Blue Elf Outfit",
+                "img": "https://images.neopets.com/items/mall_clo_babyelfoutfit.gif",
+                "seeking": 10,
+                "offering": 85,
+                "score": 75,
+                "buyable": "yes",
+                "owls": "Buyable - Dec 2023"
+            },
+            {
+                "name": "Baby Blue Fabric Dress",
+                "img": "https://images.neopets.com/items/mall_clo_babyspringdress.gif",
+                "seeking": 18,
+                "offering": 84,
+                "score": 66,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Button Boots",
+                "img": "https://images.neopets.com/items/mall_shoes_babyboots.gif",
+                "seeking": 4,
+                "offering": 115,
+                "score": 111,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Christmas Dress",
+                "img": "https://images.neopets.com/items/mall_clo_bab_xmas_dress.gif",
+                "seeking": 9,
+                "offering": 61,
+                "score": 52,
+                "buyable": "no",
+                "owls": "2-4"
+            },
+            {
+                "name": "Baby Colorblock PJ Top",
+                "img": "https://images.neopets.com/items/mall_clo_colorbpjtop.gif",
+                "seeking": 8,
+                "offering": 203,
+                "score": 195,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Cosmic Cutie Dress",
+                "img": "https://images.neopets.com/items/mall_clo_babyspacegirl.gif",
+                "seeking": 19,
+                "offering": 103,
+                "score": 84,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Floral Shirt",
+                "img": "https://images.neopets.com/items/mall_shirt_babyspring.gif",
+                "seeking": 0,
+                "offering": 148,
+                "score": 148,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Frogarott Costume",
+                "img": "https://images.neopets.com/items/mall_clo_babyfrogarott.gif",
+                "seeking": 10,
+                "offering": 68,
+                "score": 58,
+                "buyable": "no",
+                "owls": "3-5"
+            },
+            {
+                "name": "Baby Halloween Tutu and Tights",
+                "img": "https://images.neopets.com/items/mall_clo_hallobabytutu.gif",
+                "seeking": 7,
+                "offering": 98,
+                "score": 91,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Judge Hog Costume",
+                "img": "https://images.neopets.com/items/mall_clo_neopiadefenderbaby.gif",
+                "seeking": 5,
+                "offering": 87,
+                "score": 82,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Pink Outfit",
+                "img": "https://images.neopets.com/items/mall_clo_baby_pinkoutfit.gif",
+                "seeking": 24,
+                "offering": 57,
+                "score": 33,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Playtime Overalls",
+                "img": "https://images.neopets.com/items/mall_clo_babyoveralls.gif",
+                "seeking": 13,
+                "offering": 105,
+                "score": 92,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Polka Dot Dress",
+                "img": "https://images.neopets.com/items/mall_clo_babypolkadotdress.gif",
+                "seeking": 19,
+                "offering": 77,
+                "score": 58,
+                "buyable": "no",
+                "owls": "2-3"
+            },
+            {
+                "name": "Baby Puffy Winter Onesie",
+                "img": "https://images.neopets.com/items/mall_clo_babypuffonesie.gif",
+                "seeking": 21,
+                "offering": 56,
+                "score": 35,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Pumpkin Costume",
+                "img": "https://images.neopets.com/items/mall_clo_babypumpcostume.gif",
+                "seeking": 9,
+                "offering": 169,
+                "score": 160,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Raindorf Hoodie Robe",
+                "img": "https://images.neopets.com/items/mall_clo_baby_raindorf_robe.gif",
+                "seeking": 17,
+                "offering": 59,
+                "score": 42,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Scalloped Trousers",
+                "img": "https://images.neopets.com/items/mall_pants_babyspring.gif",
+                "seeking": 5,
+                "offering": 89,
+                "score": 84,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Sequined Peach Dress",
+                "img": "https://images.neopets.com/items/mall_dress_babypeachsequins.gif",
+                "seeking": 14,
+                "offering": 66,
+                "score": 52,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Snowflake Dummy",
+                "img": "https://images.neopets.com/items/mall_acc_babysnowdummy.gif",
+                "seeking": 10,
+                "offering": 60,
+                "score": 50,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Snowman Costume",
+                "img": "https://images.neopets.com/items/mall_clo_babysnowman.gif",
+                "seeking": 13,
+                "offering": 71,
+                "score": 58,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Sparkly Shoes",
+                "img": "https://images.neopets.com/items/mall_acc_babysparklyshoes.gif",
+                "seeking": 15,
+                "offering": 76,
+                "score": 61,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Spring Jumper",
+                "img": "https://images.neopets.com/items/mall_clo_babycrochetshirt.gif",
+                "seeking": 3,
+                "offering": 115,
+                "score": 112,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Striped Swim Shorts",
+                "img": "https://images.neopets.com/items/mall_clo_babyswimshorts.gif",
+                "seeking": 9,
+                "offering": 26,
+                "score": 17,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Summer Swimsuit",
+                "img": "https://images.neopets.com/items/mall_clo_babybathingsuit.gif",
+                "seeking": 10,
+                "offering": 68,
+                "score": 58,
+                "buyable": "no",
+                "owls": "2-3"
+            },
+            {
+                "name": "Baby Superstar Dress",
+                "img": "https://images.neopets.com/items/mall_clo_babysuperstar.gif",
+                "seeking": 18,
+                "offering": 76,
+                "score": 58,
+                "buyable": "no",
+                "owls": "8-10"
+            },
+            {
+                "name": "Baby Tuxedo",
+                "img": "https://images.neopets.com/items/mall_onepiece_babytux.gif",
+                "seeking": 7,
+                "offering": 129,
+                "score": 122,
+                "buyable": "yes",
+                "owls": "Buyable"
+            },
+            {
+                "name": "Baby Tuxedo Sleeper",
+                "img": "https://images.neopets.com/items/mall_clo_babytuxonesie.gif",
+                "seeking": 12,
+                "offering": 74,
+                "score": 62,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Valentine Gingham Outfit",
+                "img": "https://images.neopets.com/items/mall_clo_baby_valentinegingham.gif",
+                "seeking": 10,
+                "offering": 42,
+                "score": 32,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Valentine Heart Shoes",
+                "img": "https://images.neopets.com/items/mall_shoe_valentine_baby.gif",
+                "seeking": 11,
+                "offering": 106,
+                "score": 95,
+                "buyable": "no",
+                "owls": "2-3"
+            },
+            {
+                "name": "Baby Valentine Jumper and Shirt",
+                "img": "https://images.neopets.com/items/mall_clo_babyjumpershirt.gif",
+                "seeking": 13,
+                "offering": 129,
+                "score": 116,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Winter Sweater",
+                "img": "https://images.neopets.com/items/mall_clo_babywinsweater.gif",
+                "seeking": 6,
+                "offering": 136,
+                "score": 130,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Witchy Spellcaster Costume",
+                "img": "https://images.neopets.com/items/mall_clo_babywitch.gif",
+                "seeking": 22,
+                "offering": 78,
+                "score": 56,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Zomutt Costume",
+                "img": "https://images.neopets.com/items/mall_clo_zomuttbodysuit.gif",
+                "seeking": 15,
+                "offering": 78,
+                "score": 63,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Butterfly Bodice Dress",
+                "img": "https://images.neopets.com/items/clo_baby_butterfly_dress.gif",
+                "seeking": 13,
+                "offering": 45,
+                "score": 32,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Cosy Baby Onesie",
+                "img": "https://images.neopets.com/items/mall_clo_cudlybabyonesie.gif",
+                "seeking": 12,
+                "offering": 150,
+                "score": 138,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Diamond Satin Baby Valentine Shoes",
+                "img": "https://images.neopets.com/items/mall_shoes_babydiamondred.gif",
+                "seeking": 6,
+                "offering": 106,
+                "score": 100,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Baby Blue: Baby Valentine Jumper",
+                "img": "https://images.neopets.com/items/mall_clo_babyjumpershirt_blue.gif",
+                "seeking": 17,
+                "offering": 71,
+                "score": 54,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Baby Pink: Baby Valentine Jumper",
+                "img": "https://images.neopets.com/items/mall_clo_babyjumpershirt_pink.gif",
+                "seeking": 15,
+                "offering": 50,
+                "score": 35,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Black: Cosy Baby Onesie",
+                "img": "https://images.neopets.com/items/mall_clo_cudlybabyonesie_black.gif",
+                "seeking": 9,
+                "offering": 143,
+                "score": 134,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Blue: Baby Christmas Dress",
+                "img": "https://images.neopets.com/items/mall_babychristmas_blue.gif",
+                "seeking": 2,
+                "offering": 139,
+                "score": 137,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dyeworks Blue: Baby Polka Dot Dress",
+                "img": "https://images.neopets.com/items/mall_clo_babypolkadotdress_blu.gif",
+                "seeking": 5,
+                "offering": 102,
+                "score": 97,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Blue: Baby Spring Jumper",
+                "img": "https://images.neopets.com/items/mall_jumperdye_blue.gif",
+                "seeking": 4,
+                "offering": 131,
+                "score": 127,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dyeworks Blue: Baby Summer Swimsuit",
+                "img": "https://images.neopets.com/items/mall_clo_babybathingsuit_blue.gif",
+                "seeking": 4,
+                "offering": 81,
+                "score": 77,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Blue: Baby Superstar Dress",
+                "img": "https://images.neopets.com/items/mall_clo_babysuperstar_blue.gif",
+                "seeking": 8,
+                "offering": 72,
+                "score": 64,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Blue: Baby Winter Sweater",
+                "img": "https://images.neopets.com/items/mall_clo_babysweatblue.gif",
+                "seeking": 8,
+                "offering": 86,
+                "score": 78,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Cream: Cosy Baby Onesie",
+                "img": "https://images.neopets.com/items/mall_clo_cudlybabyonesie_cream.gif",
+                "seeking": 16,
+                "offering": 113,
+                "score": 97,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Green: Baby Christmas Dress",
+                "img": "https://images.neopets.com/items/mall_babychristmas_green.gif",
+                "seeking": 3,
+                "offering": 145,
+                "score": 142,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Green: Baby Holiday Ruffle Dress",
+                "img": "https://images.neopets.com/items/mall_clo_babyholidaygreen.gif",
+                "seeking": 5,
+                "offering": 139,
+                "score": 134,
+                "buyable": "no",
+                "owls": "2"
+            },
+            {
+                "name": "Dyeworks Green: Baby Playtime Overalls",
+                "img": "https://images.neopets.com/items/mall_clo_babyoveralls_green.gif",
+                "seeking": 12,
+                "offering": 88,
+                "score": 76,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Green: Baby Polka Dot Dress",
+                "img": "https://images.neopets.com/items/mall_clo_babypolkadotdress_gre.gif",
+                "seeking": 6,
+                "offering": 111,
+                "score": 105,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Green: Baby Summer Swimsuit",
+                "img": "https://images.neopets.com/items/mall_clo_babybathingsuit_green.gif",
+                "seeking": 0,
+                "offering": 99,
+                "score": 99,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Green: Baby Superstar Dress",
+                "img": "https://images.neopets.com/items/mall_clo_babysuperstar_mint.gif",
+                "seeking": 6,
+                "offering": 72,
+                "score": 66,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Orange: Baby Holiday Ruffle Dress",
+                "img": "https://images.neopets.com/items/mall_clo_babyholidayorang.gif",
+                "seeking": 1,
+                "offering": 144,
+                "score": 143,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dyeworks Orange: Baby Polka Dot Dress",
+                "img": "https://images.neopets.com/items/mall_clo_babypolkadotdress_ora.gif",
+                "seeking": 6,
+                "offering": 123,
+                "score": 117,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Orange: Baby Spring Jumper",
+                "img": "https://images.neopets.com/items/mall_jumperdye_orange.gif",
+                "seeking": 2,
+                "offering": 167,
+                "score": 165,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dyeworks Pink: Baby Holiday Ruffle Dress",
+                "img": "https://images.neopets.com/items/mall_clo_babyholidaypink.gif",
+                "seeking": 4,
+                "offering": 117,
+                "score": 113,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Pink: Baby Playtime Overalls",
+                "img": "https://images.neopets.com/items/mall_clo_babyoveralls_pink.gif",
+                "seeking": 16,
+                "offering": 71,
+                "score": 55,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Pink: Cosy Baby Onesie",
+                "img": "https://images.neopets.com/items/mall_clo_cudlybabyonesie_pink.gif",
+                "seeking": 16,
+                "offering": 109,
+                "score": 93,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Purple: Baby Pumpkin Costume",
+                "img": "https://images.neopets.com/items/mall_clo_babypumpcostume_purpl.gif",
+                "seeking": 7,
+                "offering": 99,
+                "score": 92,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Purple: Baby Summer Swimsuit",
+                "img": "https://images.neopets.com/items/mall_clo_babybathingsuit_purpl.gif",
+                "seeking": 8,
+                "offering": 83,
+                "score": 75,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Purple: Baby Valentine Jumper",
+                "img": "https://images.neopets.com/items/mall_clo_babyjumpershirt_purp.gif",
+                "seeking": 13,
+                "offering": 54,
+                "score": 41,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Purple: Baby Winter Sweater",
+                "img": "https://images.neopets.com/items/mall_clo_babysweatpurp.gif",
+                "seeking": 6,
+                "offering": 109,
+                "score": 103,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Red: Baby Spring Jumper",
+                "img": "https://images.neopets.com/items/mall_jumperdye_red.gif",
+                "seeking": 5,
+                "offering": 126,
+                "score": 121,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dyeworks Red: Baby Superstar Dress",
+                "img": "https://images.neopets.com/items/mall_clo_babysuperstar_red.gif",
+                "seeking": 9,
+                "offering": 71,
+                "score": 62,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Red: Baby Winter Sweater",
+                "img": "https://images.neopets.com/items/mall_clo_babysweatred.gif",
+                "seeking": 7,
+                "offering": 106,
+                "score": 99,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks White: Baby Pumpkin Costume",
+                "img": "https://images.neopets.com/items/mall_clo_babypumpcostume_white.gif",
+                "seeking": 7,
+                "offering": 112,
+                "score": 105,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Yellow: Baby Playtime Overalls",
+                "img": "https://images.neopets.com/items/mall_clo_babyoveralls_yellow.gif",
+                "seeking": 14,
+                "offering": 71,
+                "score": 57,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Yellow: Baby Pumpkin Costume",
+                "img": "https://images.neopets.com/items/mall_clo_babypumpcostume_yello.gif",
+                "seeking": 6,
+                "offering": 101,
+                "score": 95,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Spring Baby Dress",
+                "img": "https://images.neopets.com/items/mall_baby_spring_dress.gif",
+                "seeking": 9,
+                "offering": 128,
+                "score": 119,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "To Virtupets and Beyond Baby PJs",
+                "img": "https://images.neopets.com/items/mall_clo_babyspacepjs.gif",
+                "seeking": 11,
+                "offering": 148,
+                "score": 137,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Adorable Curly Baby Wig",
+                "img": "https://images.neopets.com/items/mall_adorable_baby_wig.gif",
+                "seeking": 8,
+                "offering": 107,
+                "score": 99,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Angelpuss Baby Bath Towel",
+                "img": "https://images.neopets.com/items/mall_clo_hoodtowelangelbaby.gif",
+                "seeking": 20,
+                "offering": 81,
+                "score": 61,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Aging Wig",
+                "img": "https://images.neopets.com/items/mall_wig_babyaging.gif",
+                "seeking": 0,
+                "offering": 154,
+                "score": 154,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Altador Sippy Cup",
+                "img": "https://images.neopets.com/items/mall_acc_babysippy.gif",
+                "seeking": 16,
+                "offering": 66,
+                "score": 50,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Babaa Beanie",
+                "img": "https://images.neopets.com/items/mall_acc_babaabeanie.gif",
+                "seeking": 10,
+                "offering": 211,
+                "score": 201,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Babaa Plushie",
+                "img": "https://images.neopets.com/items/mall_acc_babaaplush.gif",
+                "seeking": 39,
+                "offering": 136,
+                "score": 97,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Bob Wig",
+                "img": "https://images.neopets.com/items/mall_acc_babygirlhairbob.gif",
+                "seeking": 7,
+                "offering": 106,
+                "score": 99,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Bubble Wand",
+                "img": "https://images.neopets.com/items/mall_hh_babybubblewand.gif",
+                "seeking": 9,
+                "offering": 98,
+                "score": 89,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Bubbles Wig",
+                "img": "https://images.neopets.com/items/mall_acc_babybubbleswig.gif",
+                "seeking": 9,
+                "offering": 126,
+                "score": 117,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Bun with Heart Headband",
+                "img": "https://images.neopets.com/items/mall_acc_babybun.gif",
+                "seeking": 17,
+                "offering": 83,
+                "score": 66,
+                "buyable": "no",
+                "owls": "6"
+            },
+            {
+                "name": "Baby Candy Corn Hat",
+                "img": "https://images.neopets.com/items/mall_acc_candycornhat.gif",
+                "seeking": 4,
+                "offering": 119,
+                "score": 115,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Candy Corn Wings",
+                "img": "https://images.neopets.com/items/mall_acc_babycandycornwi.gif",
+                "seeking": 1,
+                "offering": 164,
+                "score": 163,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Cloud Wings",
+                "img": "https://images.neopets.com/items/mall_wings_babyangel.gif",
+                "seeking": 19,
+                "offering": 95,
+                "score": 76,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Clover Wig",
+                "img": "https://images.neopets.com/items/mall_acc_green_baby_wig_headba.gif",
+                "seeking": 3,
+                "offering": 85,
+                "score": 82,
+                "buyable": "no",
+                "owls": "2-3"
+            },
+            {
+                "name": "Baby Cupcake Hat",
+                "img": "https://images.neopets.com/items/mall_acc_babycupcakehat.gif",
+                "seeking": 10,
+                "offering": 79,
+                "score": 69,
+                "buyable": "no",
+                "owls": "2"
+            },
+            {
+                "name": "Baby Ducky Binky",
+                "img": "https://images.neopets.com/items/mall_acc_babyduckbinky.gif",
+                "seeking": 19,
+                "offering": 95,
+                "score": 76,
+                "buyable": "no",
+                "owls": "2"
+            },
+            {
+                "name": "Baby Ducky Pool Floatie",
+                "img": "https://images.neopets.com/items/mall_acc_babyfloatie.gif",
+                "seeking": 13,
+                "offering": 43,
+                "score": 30,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Elf Hat",
+                "img": "https://images.neopets.com/items/mall_baby_elfhat.gif",
+                "seeking": 9,
+                "offering": 130,
+                "score": 121,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Flower Sunglasses",
+                "img": "https://images.neopets.com/items/mall_acc_babysunglasses.gif",
+                "seeking": 1,
+                "offering": 226,
+                "score": 225,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Frostbite Body Paint",
+                "img": "https://images.neopets.com/items/mall_fg_babyfrostbitebp.gif",
+                "seeking": 8,
+                "offering": 131,
+                "score": 123,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Ghostly Cape",
+                "img": "https://images.neopets.com/items/mall_acc_babyghostcape.gif",
+                "seeking": 6,
+                "offering": 131,
+                "score": 125,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Gingerbread Wings",
+                "img": "https://images.neopets.com/items/mall_acc_babygingerwings.gif",
+                "seeking": 6,
+                "offering": 122,
+                "score": 116,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Green Flower Sunglasses",
+                "img": "https://images.neopets.com/items/mall_acc_babysunglasses_green.gif",
+                "seeking": 7,
+                "offering": 33,
+                "score": 26,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Halloween Warf Plushie",
+                "img": "https://images.neopets.com/items/mall_acc_baby_halloweenwarfplu.gif",
+                "seeking": 14,
+                "offering": 44,
+                "score": 30,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Iridescent Balloon",
+                "img": "https://images.neopets.com/items/mall_acc_baby_iridecballoon.gif",
+                "seeking": 34,
+                "offering": 52,
+                "score": 18,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Lady Blurg Umbrella",
+                "img": "https://images.neopets.com/items/mall_hh_ladyblurgumbrella.gif",
+                "seeking": 9,
+                "offering": 88,
+                "score": 79,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Makeup of the Undead",
+                "img": "https://images.neopets.com/items/mall_acc_babyundeadmakeup.gif",
+                "seeking": 6,
+                "offering": 163,
+                "score": 157,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Messy Birthday Cake Makeup",
+                "img": "https://images.neopets.com/items/mall_acc_baby_messycake.gif",
+                "seeking": 38,
+                "offering": 52,
+                "score": 14,
+                "buyable": "no",
+                "owls": "2"
+            },
+            {
+                "name": "Baby Mop Wig",
+                "img": "https://images.neopets.com/items/mall_acc_babyboyhair.gif",
+                "seeking": 1,
+                "offering": 126,
+                "score": 125,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Moustache Dummy",
+                "img": "https://images.neopets.com/items/mall_acc_mustachepacifier.gif",
+                "seeking": 7,
+                "offering": 141,
+                "score": 134,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Negg Basket",
+                "img": "https://images.neopets.com/items/mall_acc_babyeasterbasket.gif",
+                "seeking": 8,
+                "offering": 53,
+                "score": 45,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Overstuffed Warf Plushie",
+                "img": "https://images.neopets.com/items/mall_hh_overstuffedtanwarfbaby.gif",
+                "seeking": 24,
+                "offering": 57,
+                "score": 33,
+                "buyable": "no",
+                "owls": "2-3"
+            },
+            {
+                "name": "Baby Pigtail Wig",
+                "img": "https://images.neopets.com/items/mall_acc_babypigtails.gif",
+                "seeking": 0,
+                "offering": 152,
+                "score": 152,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Pink Contacts",
+                "img": "https://images.neopets.com/items/mall_acc_pinkbabycontacts.gif",
+                "seeking": 4,
+                "offering": 219,
+                "score": 215,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Pink Ona Rattle",
+                "img": "https://images.neopets.com/items/mall_hh_babyrattlepetpet.gif",
+                "seeking": 4,
+                "offering": 133,
+                "score": 129,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Portal Blast Gun",
+                "img": "https://images.neopets.com/items/mall_acc_babyportalgun.gif",
+                "seeking": 11,
+                "offering": 180,
+                "score": 169,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Pumpkin Rattle",
+                "img": "https://images.neopets.com/items/mall_acc_pumpkinratt.gif",
+                "seeking": 24,
+                "offering": 70,
+                "score": 46,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Pumpkin Spice Sippy Cup",
+                "img": "https://images.neopets.com/items/mall_acc_baby_pssippycup.gif",
+                "seeking": 11,
+                "offering": 45,
+                "score": 34,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Rosy Cheeks",
+                "img": "https://images.neopets.com/items/mall_acc_babyrosycheeks.gif",
+                "seeking": 39,
+                "offering": 51,
+                "score": 12,
+                "buyable": "no",
+                "owls": "3-4"
+            },
+            {
+                "name": "Baby Smashed Pumpkin Mask",
+                "img": "https://images.neopets.com/items/mall_acc_babysmashedpumpkin.gif",
+                "seeking": 9,
+                "offering": 49,
+                "score": 40,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Snow Angel Wings",
+                "img": "https://images.neopets.com/items/mall_acc_babysnowwings.gif",
+                "seeking": 7,
+                "offering": 119,
+                "score": 112,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Snow Globe Rattle",
+                "img": "https://images.neopets.com/items/mall_acc_bbysnowrattle.gif",
+                "seeking": 14,
+                "offering": 35,
+                "score": 21,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Snowbunny Plushie",
+                "img": "https://images.neopets.com/items/mall_hh_babysnowbunny.gif",
+                "seeking": 38,
+                "offering": 37,
+                "score": -1,
+                "buyable": "no",
+                "owls": "4-5"
+            },
+            {
+                "name": "Baby Snowflake Dummy",
+                "img": "https://images.neopets.com/items/mall_acc_babysnowdummy.gif",
+                "seeking": 10,
+                "offering": 60,
+                "score": 50,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Soft Serve Ice Cream Cone",
+                "img": "https://images.neopets.com/items/mall_acc_babyicecream.gif",
+                "seeking": 18,
+                "offering": 72,
+                "score": 54,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Spring Body Paint",
+                "img": "https://images.neopets.com/items/mall_acc_babyspringpaint.gif",
+                "seeking": 16,
+                "offering": 129,
+                "score": 113,
+                "buyable": "no",
+                "owls": "8-10"
+            },
+            {
+                "name": "Baby Star Wand",
+                "img": "https://images.neopets.com/items/mall_hh_babywand.gif",
+                "seeking": 15,
+                "offering": 84,
+                "score": 69,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Starry Space Buns Wig",
+                "img": "https://images.neopets.com/items/mall_acc_babyspacebuns.gif",
+                "seeking": 34,
+                "offering": 91,
+                "score": 57,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Summer Flower Wig",
+                "img": "https://images.neopets.com/items/mall_wig_babysummer.gif",
+                "seeking": 7,
+                "offering": 95,
+                "score": 88,
+                "buyable": "no",
+                "owls": "2-4"
+            },
+            {
+                "name": "Baby Summer Hat",
+                "img": "https://images.neopets.com/items/mall_hat_summerbaby.gif",
+                "seeking": 10,
+                "offering": 116,
+                "score": 106,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Summer Wings",
+                "img": "https://images.neopets.com/items/mall_wings_babysummer.gif",
+                "seeking": 27,
+                "offering": 50,
+                "score": 23,
+                "buyable": "no",
+                "owls": "4-5"
+            },
+            {
+                "name": "Baby Sunflower Handheld",
+                "img": "https://images.neopets.com/items/mall_acc_babysunflowerhh.gif",
+                "seeking": 20,
+                "offering": 48,
+                "score": 28,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Toy Keys",
+                "img": "https://images.neopets.com/items/mall_hh_toykeys.gif",
+                "seeking": 6,
+                "offering": 132,
+                "score": 126,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Trick-or-Treat Bag",
+                "img": "https://images.neopets.com/items/mall_acc_baby_totbag.gif",
+                "seeking": 23,
+                "offering": 69,
+                "score": 46,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Valentine Blankie",
+                "img": "https://images.neopets.com/items/mall_baby_valblankie.gif",
+                "seeking": 21,
+                "offering": 92,
+                "score": 71,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Valentine Bow and Arrow",
+                "img": "https://images.neopets.com/items/mall_acc_babybow.gif",
+                "seeking": 12,
+                "offering": 88,
+                "score": 76,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Valentine Feloreena Handheld Plushie",
+                "img": "https://images.neopets.com/items/mall_hh_babyvalentineplushie.gif",
+                "seeking": 22,
+                "offering": 62,
+                "score": 40,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Valentine Wings",
+                "img": "https://images.neopets.com/items/mall_wings_babyvalentine.gif",
+                "seeking": 1,
+                "offering": 157,
+                "score": 156,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Wig with Snowbunny Ears",
+                "img": "https://images.neopets.com/items/mall_acc_snowbunnyearswig.gif",
+                "seeking": 4,
+                "offering": 79,
+                "score": 75,
+                "buyable": "no",
+                "owls": "3-5"
+            },
+            {
+                "name": "Baby Winter Hat",
+                "img": "https://images.neopets.com/items/mall_acc_babypetwinterhat.gif",
+                "seeking": 11,
+                "offering": 72,
+                "score": 61,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Witchy Spellcaster Hat",
+                "img": "https://images.neopets.com/items/mall_acc_babywitchhat.gif",
+                "seeking": 21,
+                "offering": 67,
+                "score": 46,
+                "buyable": "no",
+                "owls": "2-3"
+            },
+            {
+                "name": "Baby Wooden Teether",
+                "img": "https://images.neopets.com/items/mall_hh_woodteether.gif",
+                "seeking": 3,
+                "offering": 207,
+                "score": 204,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Yooyu Rattle",
+                "img": "https://images.neopets.com/items/mall_acc_baby_yooyurattle.gif",
+                "seeking": 4,
+                "offering": 27,
+                "score": 23,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Zomutt Contacts",
+                "img": "https://images.neopets.com/items/mall_acc_zomuttcontacts.gif",
+                "seeking": 9,
+                "offering": 195,
+                "score": 186,
+                "buyable": "no",
+                "owls": "2"
+            },
+            {
+                "name": "Baby Zomutt Costume Face Paint",
+                "img": "https://images.neopets.com/items/mall_acc_zomuttfacepaint.gif",
+                "seeking": 16,
+                "offering": 128,
+                "score": 112,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Zomutt Costume Hat",
+                "img": "https://images.neopets.com/items/mall_clo_zomuttheadpiece.gif",
+                "seeking": 10,
+                "offering": 124,
+                "score": 114,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Blue & Yellow Baby Bib",
+                "img": "https://images.neopets.com/items/mall_acc_babybluebib.gif",
+                "seeking": 5,
+                "offering": 153,
+                "score": 148,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Black: Baby Bun with Heart Headband",
+                "img": "https://images.neopets.com/items/mall_acc_babybun_black.gif",
+                "seeking": 0,
+                "offering": 0,
+                "score": 0,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dyeworks Black: Baby Button Boots",
+                "img": "https://images.neopets.com/items/mall_shoes_babyboots_black.gif",
+                "seeking": 16,
+                "offering": 41,
+                "score": 25,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dyeworks Blonde: Baby Starry Space Buns Wig",
+                "img": "https://images.neopets.com/items/mall_acc_babyspacebuns_bld.gif",
+                "seeking": 18,
+                "offering": 111,
+                "score": 93,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Blue: Baby Button Boots",
+                "img": "https://images.neopets.com/items/mall_shoes_babyboots_blue.gif",
+                "seeking": 13,
+                "offering": 55,
+                "score": 42,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dyeworks Blue: Baby Pink Contacts",
+                "img": "https://images.neopets.com/items/mall_acc_pinkbabycontacts_blue.gif",
+                "seeking": 13,
+                "offering": 124,
+                "score": 111,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Blue: Baby Summer Wings",
+                "img": "https://images.neopets.com/items/mall_babysummwings_blue.gif",
+                "seeking": 25,
+                "offering": 90,
+                "score": 65,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Blue: Baby Valentine Wings",
+                "img": "https://images.neopets.com/items/mall_wings_babyvalblue.gif",
+                "seeking": 5,
+                "offering": 133,
+                "score": 128,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Brown: Baby Bun with Heart Headband",
+                "img": "https://images.neopets.com/items/mall_acc_babybun_brown.gif",
+                "seeking": 7,
+                "offering": 115,
+                "score": 108,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Brown: Baby Pink Contacts",
+                "img": "https://images.neopets.com/items/mall_acc_pinkbabycontacts_brow.gif",
+                "seeking": 10,
+                "offering": 150,
+                "score": 140,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Brown: Baby Spring Wig",
+                "img": "https://images.neopets.com/items/mall_acc_babyspringwig_brown.gif",
+                "seeking": 8,
+                "offering": 113,
+                "score": 105,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Gold: Baby Rosy Cheeks",
+                "img": "https://images.neopets.com/items/mall_acc_babyrosycheeks_gold.gif",
+                "seeking": 7,
+                "offering": 108,
+                "score": 101,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Green: Baby Pink Contacts",
+                "img": "https://images.neopets.com/items/mall_acc_pinkbabycontacts_gree.gif",
+                "seeking": 16,
+                "offering": 153,
+                "score": 137,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Green: Oversized Baby Santa Hat",
+                "img": "https://images.neopets.com/items/mall_hat_babysanta_dyegreen.gif",
+                "seeking": 5,
+                "offering": 142,
+                "score": 137,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Grey: Baby Valentine Wings",
+                "img": "https://images.neopets.com/items/mall_wings_babyvalgrey.gif",
+                "seeking": 2,
+                "offering": 142,
+                "score": 140,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Lavender: Pink Baby Bow",
+                "img": "https://images.neopets.com/items/mall_acc_babypinkbow_lav.gif",
+                "seeking": 24,
+                "offering": 80,
+                "score": 56,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Light Brown: Baby Starry Space Buns Wig",
+                "img": "https://images.neopets.com/items/mall_acc_babyspacebuns_brn.gif",
+                "seeking": 15,
+                "offering": 126,
+                "score": 111,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Orange: Baby Button Boots",
+                "img": "https://images.neopets.com/items/mall_shoes_babyboots_orange.gif",
+                "seeking": 9,
+                "offering": 56,
+                "score": 47,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dyeworks Orange: Baby Spring Wig",
+                "img": "https://images.neopets.com/items/mall_acc_babyspringwig_orange.gif",
+                "seeking": 8,
+                "offering": 106,
+                "score": 98,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Pastel Rainbow: Baby Magical Galaxy Markings",
+                "img": "https://images.neopets.com/items/mall_acc_babygalaxy_rainbow.gif",
+                "seeking": 47,
+                "offering": 102,
+                "score": 55,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Peach: Baby Rosy Cheeks",
+                "img": "https://images.neopets.com/items/mall_acc_babyrosycheeks_peach.gif",
+                "seeking": 73,
+                "offering": 43,
+                "score": -30,
+                "buyable": "no",
+                "owls": "3-5"
+            },
+            {
+                "name": "Dyeworks Pink: Baby Starry Space Buns Wig",
+                "img": "https://images.neopets.com/items/mall_acc_babyspacebuns_pnk.gif",
+                "seeking": 18,
+                "offering": 118,
+                "score": 100,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Pink: Oversized Baby Santa Hat",
+                "img": "https://images.neopets.com/items/mall_hat_babysanta_dyepink.gif",
+                "seeking": 9,
+                "offering": 107,
+                "score": 98,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Purple: Baby Valentine Wings",
+                "img": "https://images.neopets.com/items/mall_wings_babyvalpurp.gif",
+                "seeking": 4,
+                "offering": 136,
+                "score": 132,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Purple: Oversized Baby Santa Hat",
+                "img": "https://images.neopets.com/items/mall_hat_babysanta_dyepurple.gif",
+                "seeking": 6,
+                "offering": 151,
+                "score": 145,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Red & White: Baby Magical Galaxy Markings",
+                "img": "https://images.neopets.com/items/mall_acc_babygalaxy_red.gif",
+                "seeking": 10,
+                "offering": 170,
+                "score": 160,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Red: Baby Bun with Heart Headband",
+                "img": "https://images.neopets.com/items/mall_acc_babybun_red.gif",
+                "seeking": 8,
+                "offering": 137,
+                "score": 129,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Red: Baby Rosy Cheeks",
+                "img": "https://images.neopets.com/items/mall_acc_babyrosycheeks_red.gif",
+                "seeking": 23,
+                "offering": 91,
+                "score": 68,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Silver & Gold: Baby Magical Galaxy Markings",
+                "img": "https://images.neopets.com/items/mall_acc_babygalaxy_silver.gif",
+                "seeking": 10,
+                "offering": 152,
+                "score": 142,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Silver: Baby Summer Wings",
+                "img": "https://images.neopets.com/items/mall_babysummwings_silver.gif",
+                "seeking": 19,
+                "offering": 84,
+                "score": 65,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks White: Pink Baby Bow",
+                "img": "https://images.neopets.com/items/mall_acc_babypinkbow_white.gif",
+                "seeking": 24,
+                "offering": 63,
+                "score": 39,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Yellow: Baby Summer Wings",
+                "img": "https://images.neopets.com/items/mall_babysummwings_yellow.gif",
+                "seeking": 12,
+                "offering": 129,
+                "score": 117,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Yellow: Pink Baby Bow",
+                "img": "https://images.neopets.com/items/mall_acc_babypinkbow_yellow.gif",
+                "seeking": 12,
+                "offering": 81,
+                "score": 69,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Glass Shoes",
+                "img": "https://images.neopets.com/items/clo_baby_glass_shoes.gif",
+                "seeking": 20,
+                "offering": 42,
+                "score": 22,
+                "buyable": "no",
+                "owls": "3-4"
+            },
+            {
+                "name": "Glitter Baby Body Paint",
+                "img": "https://images.neopets.com/items/mall_acc_baby_glitterbp.gif",
+                "seeking": 30,
+                "offering": 87,
+                "score": 57,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Lil Rascal Baby Hat",
+                "img": "https://images.neopets.com/items/mall_acc_rascalbabyhat.gif",
+                "seeking": 5,
+                "offering": 282,
+                "score": 277,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Long Baby Girl Wig",
+                "img": "https://images.neopets.com/items/mall_acc_longbabywig.gif",
+                "seeking": 7,
+                "offering": 65,
+                "score": 58,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Oversized Baby Santa Hat",
+                "img": "https://images.neopets.com/items/mall_acc_oversized_baby_hat.gif",
+                "seeking": 16,
+                "offering": 53,
+                "score": 37,
+                "buyable": "no",
+                "owls": "2-3"
+            },
+            {
+                "name": "Pink Baby Bow",
+                "img": "https://images.neopets.com/items/mall_acc_babypinkbow.gif",
+                "seeking": 21,
+                "offering": 93,
+                "score": 72,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Ribboned Wig",
+                "img": "https://images.neopets.com/items/clo_ribboned_wig.gif",
+                "seeking": 4,
+                "offering": 78,
+                "score": 74,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Sleepy Baby Contacts",
+                "img": "https://images.neopets.com/items/mall_acc_babysleepeyes.gif",
+                "seeking": 44,
+                "offering": 174,
+                "score": 130,
+                "buyable": "no",
+                "owls": "2-3"
+            },
+            {
+                "name": "Spooky Baby Bat Wings",
+                "img": "https://images.neopets.com/items/mall_acc_babybatwings.gif",
+                "seeking": 15,
+                "offering": 118,
+                "score": 103,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Valentine Baby Bonnet",
+                "img": "https://images.neopets.com/items/mall_baby_valbonner.gif",
+                "seeking": 6,
+                "offering": 123,
+                "score": 117,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Valentine Baby Dummy",
+                "img": "https://images.neopets.com/items/mall_baby_valpacifier.gif",
+                "seeking": 25,
+                "offering": 70,
+                "score": 45,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Bouncing Planet Garland",
+                "img": "https://images.neopets.com/items/mall_garl_babyplanets.gif",
+                "seeking": 24,
+                "offering": 105,
+                "score": 81,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Building Blocks Foreground",
+                "img": "https://images.neopets.com/items/mall_trink_babybuildingblockfg.gif",
+                "seeking": 4,
+                "offering": 116,
+                "score": 112,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Floor Gym",
+                "img": "https://images.neopets.com/items/mall_trink_babyfloorgym.gif",
+                "seeking": 6,
+                "offering": 108,
+                "score": 102,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby in a Highchair",
+                "img": "https://images.neopets.com/items/mall_trink_babyhighchair.gif",
+                "seeking": 14,
+                "offering": 112,
+                "score": 98,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby in a Present Box",
+                "img": "https://images.neopets.com/items/mall_trin_baby_xmas_box.gif",
+                "seeking": 15,
+                "offering": 47,
+                "score": 32,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby in a Pumpkin",
+                "img": "https://images.neopets.com/items/mall_baby_inpumpkin.gif",
+                "seeking": 11,
+                "offering": 44,
+                "score": 33,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby in an Easter Basket Background",
+                "img": "https://images.neopets.com/items/mall_bg_babyeasterbasket.gif",
+                "seeking": 7,
+                "offering": 51,
+                "score": 44,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Kadoatie Carriage",
+                "img": "https://images.neopets.com/items/mall_trink_babycarriageplushie.gif",
+                "seeking": 8,
+                "offering": 100,
+                "score": 92,
+                "buyable": "no",
+                "owls": "Buyable in Baby Bruce KQ Token"
+            },
+            {
+                "name": "Baby Oversized Toy",
+                "img": "https://images.neopets.com/items/mall_trink_babyintoy.gif",
+                "seeking": 4,
+                "offering": 141,
+                "score": 137,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Pull Along Train",
+                "img": "https://images.neopets.com/items/mall_hh_babypullalongtoy.gif",
+                "seeking": 19,
+                "offering": 69,
+                "score": 50,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Sleigh with Raindorfs",
+                "img": "https://images.neopets.com/items/mall_fg_babyslay.gif",
+                "seeking": 6,
+                "offering": 90,
+                "score": 84,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Baby Toy Wagon",
+                "img": "https://images.neopets.com/items/mall_trink_babypetinwagon.gif",
+                "seeking": 17,
+                "offering": 67,
+                "score": 50,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Wading Pool",
+                "img": "https://images.neopets.com/items/mall_trink_babypool.gif",
+                "seeking": 7,
+                "offering": 131,
+                "score": 124,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Baby Within Autumn Leaves",
+                "img": "https://images.neopets.com/items/mall_trink_babyautumnleaves.gif",
+                "seeking": 22,
+                "offering": 54,
+                "score": 32,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Bath Toys Foreground",
+                "img": "https://images.neopets.com/items/mall_fg_bathtoys.gif",
+                "seeking": 8,
+                "offering": 137,
+                "score": 129,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Bubble Blower Toy",
+                "img": "https://images.neopets.com/items/mall_trink_bubbleblower.gif",
+                "seeking": 1,
+                "offering": 165,
+                "score": 164,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Charming Baby Frame",
+                "img": "https://images.neopets.com/items/mall_trink_babypictureframe.gif",
+                "seeking": 5,
+                "offering": 121,
+                "score": 116,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Charming Baby Nursery Background",
+                "img": "https://images.neopets.com/items/mall_bg_babynursery.gif",
+                "seeking": 24,
+                "offering": 100,
+                "score": 76,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Colourful Playroom Background",
+                "img": "https://images.neopets.com/items/mall_trink_babytoyroombg.gif",
+                "seeking": 5,
+                "offering": 70,
+                "score": 65,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Comfy Cosmic Crib Background",
+                "img": "https://images.neopets.com/items/mall_bg_cosmicbabycrib.gif",
+                "seeking": 19,
+                "offering": 136,
+                "score": 117,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Blue: Baby in a Present Box",
+                "img": "https://images.neopets.com/items/mall_trin_baby_xmas_box_blue.gif",
+                "seeking": 6,
+                "offering": 144,
+                "score": 138,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Green: Baby in a Present Box",
+                "img": "https://images.neopets.com/items/mall_trin_baby_xmas_box_green.gif",
+                "seeking": 5,
+                "offering": 136,
+                "score": 131,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Green: Baby Wading Pool",
+                "img": "https://images.neopets.com/items/mall_trink_babypool_softgreen.gif",
+                "seeking": 4,
+                "offering": 189,
+                "score": 185,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Lavender: Baby in a Pumpkin",
+                "img": "https://images.neopets.com/items/mall_trink_lavbabyinpump.gif",
+                "seeking": 5,
+                "offering": 193,
+                "score": 188,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Pink: Baby in a Present Box",
+                "img": "https://images.neopets.com/items/mall_trin_baby_xmas_box_pink.gif",
+                "seeking": 10,
+                "offering": 125,
+                "score": 115,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Pink: Baby Wading Pool",
+                "img": "https://images.neopets.com/items/mall_trink_babypool_softpink.gif",
+                "seeking": 6,
+                "offering": 156,
+                "score": 150,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks White: Baby in a Pumpkin",
+                "img": "https://images.neopets.com/items/mall_trink_whitebabyinpump.gif",
+                "seeking": 13,
+                "offering": 163,
+                "score": 150,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Yellow: Baby in a Pumpkin",
+                "img": "https://images.neopets.com/items/mall_trink_yellobabyinpump.gif",
+                "seeking": 5,
+                "offering": 195,
+                "score": 190,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Dyeworks Yellow: Baby Wading Pool",
+                "img": "https://images.neopets.com/items/mall_trink_babypool_softyellow.gif",
+                "seeking": 7,
+                "offering": 134,
+                "score": 127,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "MME10-S1: Like A Baby Foreground",
+                "img": "https://images.neopets.com/items/mall_foreground_baby.gif",
+                "seeking": 2,
+                "offering": 198,
+                "score": 196,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Rubber Ducky & Bubbles Mobile",
+                "img": "https://images.neopets.com/items/mall_mobile_duckies.gif",
+                "seeking": 5,
+                "offering": 163,
+                "score": 158,
+                "buyable": "no",
+                "owls": "1-2"
+            },
+            {
+                "name": "Valentine Baby Basket",
+                "img": "https://images.neopets.com/items/mall_trink_babybasket.gif",
+                "seeking": 16,
+                "offering": 82,
+                "score": 66,
+                "buyable": "no",
+                "owls": "1-2"
             }
         ]
     }
