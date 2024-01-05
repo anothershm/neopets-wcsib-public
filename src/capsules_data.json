@@ -1386,24 +1386,6 @@
         ]
     },
     {
-        "name": "Dreamy Gingerbread Gift Box Mystery Capsule",
-        "img": "",
-        "still_collecting_data": false,
-        "score_items": 0.0,
-        "number_items": 1,
-        "items": [
-            {
-                "name": "Dreamy Gingerbread Gift Box",
-                "img": "https://images.neopets.com/items/mall_gb_gingerbreadhouse.gif",
-                "seeking": 0,
-                "offering": 0,
-                "score": 0,
-                "buyable": "no",
-                "owls": "-"
-            }
-        ]
-    },
-    {
         "name": "New Year 2023 Celebration Mystery Capsule",
         "img": "https://images.neopets.com/items/mall_mc_newyear2023.gif",
         "still_collecting_data": false,
@@ -1452,6 +1434,24 @@
                 "seeking": 8,
                 "offering": 24,
                 "score": 16,
+                "buyable": "no",
+                "owls": "-"
+            }
+        ]
+    },
+    {
+        "name": "Friendly Feepit Gift Box Mystery Capsule",
+        "img": "https://images.neopets.com/items/mall_gbmc_january2024.gif",
+        "still_collecting_data": false,
+        "score_items": 0.0,
+        "number_items": 1,
+        "items": [
+            {
+                "name": "Friendly Feepit Gift Box",
+                "img": "",
+                "seeking": 0,
+                "offering": 0,
+                "score": 0,
                 "buyable": "no",
                 "owls": "-"
             }
