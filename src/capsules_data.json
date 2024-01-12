@@ -1456,5 +1456,104 @@
                 "owls": "-"
             }
         ]
+    },
+    {
+        "name": "Victorian Winter Ball Mystery Capsule",
+        "img": "https://images.neopets.com/items/mall_mc_winter2024.gif",
+        "still_collecting_data": false,
+        "score_items": 66.6,
+        "number_items": 10,
+        "items": [
+            {
+                "name": "Dark Blue Victorian Short Wig",
+                "img": "https://images.neopets.com/items/mall_acc_bluevictorianshort_wi.gif",
+                "seeking": 5,
+                "offering": 123,
+                "score": 118,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Silver Braid Winter Updo Wig",
+                "img": "https://images.neopets.com/items/mall_acc_silverbraidwinter_upd.gif",
+                "seeking": 8,
+                "offering": 116,
+                "score": 108,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Victorian Ball Invitation Handheld",
+                "img": "https://images.neopets.com/items/mall_acc_victorianballinvite_h.gif",
+                "seeking": 12,
+                "offering": 116,
+                "score": 104,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Victorian Makeup",
+                "img": "https://images.neopets.com/items/mall_acc_victorianmakeup.gif",
+                "seeking": 13,
+                "offering": 123,
+                "score": 110,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Victorian Winter Ball Long-Sleeved Gown",
+                "img": "https://images.neopets.com/items/mall_clo_winterballgown_long.gif",
+                "seeking": 43,
+                "offering": 94,
+                "score": 51,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Victorian Winter Ball Short-Sleeved Gown",
+                "img": "https://images.neopets.com/items/mall_clo_winterballgown_short.gif",
+                "seeking": 37,
+                "offering": 95,
+                "score": 58,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Victorian Winter Ball Suit",
+                "img": "https://images.neopets.com/items/mall_clo_winterballsuit.gif",
+                "seeking": 27,
+                "offering": 111,
+                "score": 84,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Dancing Feepits Petpet Foreground",
+                "img": "https://images.neopets.com/items/mall_fg_dancingfeepits.gif",
+                "seeking": 19,
+                "offering": 69,
+                "score": 50,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Snowflake Skin",
+                "img": "https://images.neopets.com/items/mall_acc_snowflakeskin.gif",
+                "seeking": 96,
+                "offering": 41,
+                "score": -55,
+                "buyable": "no",
+                "owls": "-"
+            },
+            {
+                "name": "Victorian Ballroom Balcony Background",
+                "img": "https://images.neopets.com/items/mall_bg_victorianbalcony.gif",
+                "seeking": 36,
+                "offering": 74,
+                "score": 38,
+                "buyable": "no",
+                "owls": "-"
+            }
+        ]
     }
 ]
