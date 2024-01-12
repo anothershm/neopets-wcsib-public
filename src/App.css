@@ -30,3 +30,14 @@ p {
   text-align: center;
 }
 
+form {
+  color: #737373;
+  font-size: 1rem;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.MuiButton-contained {
+  margin: 13px !important;
+  background-color: #737373 !important;
+}
