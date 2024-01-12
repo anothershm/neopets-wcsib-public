@@ -4,6 +4,7 @@
   "homepage": "https://anothershm.github.io/neopets-wcsib-public/",
   "private": true,
   "dependencies": {
+    "@apollo/client": "^3.8.9",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.3",
@@ -13,6 +14,7 @@
     "@testing-library/user-event": "^14.4.3",
     "bootstrap": "^5.3.1",
     "gh-pages": "^6.0.0",
+    "graphql": "^16.8.1",
     "material-react-table": "^1.14.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -20,8 +22,8 @@
     "web-vitals": "^3.4.0"
   },
   "scripts": {
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

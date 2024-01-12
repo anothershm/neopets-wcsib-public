@@ -4,7 +4,7 @@ import { IconButton } from '@mui/material';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 
 
-export const DetailsItems = ({ changeTable, tableData }) => {
+export const DetailsItems = ({ changeTable, tableData , userWants}) => {
 
     const handleClick = () =>{
         changeTable(null);
@@ -15,7 +15,7 @@ export const DetailsItems = ({ changeTable, tableData }) => {
             <IconButton aria-label="go-back"  color="default" onClick={handleClick}>
                 <ArrowBackIcon />
             </IconButton>
-            <TableItems tableData={tableData} />
+            <TableItems tableData={tableData} userWants={userWants}/>
         </div>
     );
 };

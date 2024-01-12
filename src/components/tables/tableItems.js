@@ -2,7 +2,7 @@
 import React, { useMemo } from 'react';
 import { MaterialReactTable } from 'material-react-table';
 
-export const TableItems = ({ tableData }) => {
+export const TableItems = ({ tableData, userWants }) => {
 
     const columns = useMemo(
         () => [
@@ -48,9 +48,19 @@ export const TableItems = ({ tableData }) => {
                 accessorKey: 'owls',
                 header: 'Owls value',
                 size: 130,
+            },
+            {
+                header: 'Wanted',
+                Cell: ({ cell }) => (
+                    userWants && userWants.includes(cell.row.original.name)
+                        ? "yes"
+                        : ""
+                ),
+                sortable: true,
+                size: 130,
             }
         ],
-        [],
+        [userWants],
     );
 
     return (
@@ -60,7 +70,7 @@ export const TableItems = ({ tableData }) => {
             enableToolbarInternalActions={tableData.length !== 0}
             enableDensityToggle={false}
             enableBottomToolbar={tableData.length !== 0 && tableData.length > 10}
-            enableFullScreenToggle={false}
+            enableFullScreenToggle={false}   
             initialState={{
                 density: 'compact',
                 sorting: [{

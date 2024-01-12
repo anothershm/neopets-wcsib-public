@@ -1,27 +1,57 @@
 import './App.css';
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import capData from "./capsules_data.json";
 import { TableCapsules } from "./components/tables/tableCapsules";
 import { DetailsItems } from './components/detailsItems';
+import { useQuery, gql } from '@apollo/client';
+
 
 import { TextField } from '@mui/material';
 import { Button } from '@mui/material';
 
 
+const userIdPattern = /^https:\/\/impress(?:-2020)?\.openneo\.net\/user\/(\d+)(?:-[a-z]+)?\/(lists|closet)$/;
+
+const useUserQuery = (userId, shouldFetch) => {
+  return useQuery(GET_USER, {
+    variables: { id: userId },
+    skip: !shouldFetch,
+  });
+}
+
+
+
 const App = () => {
   const [selectedRowData, setSelectedRowData] = useState(null);
   const [inputUrl, setInputUrl] = useState('');
+  const [userId, setUserId] = useState('');
+  const [submit, setSubmit] = useState(false);
+  const [userWants, setUserWants] = useState('');
+
+
+  const { loading, error, data } = useUserQuery(userId, submit);
+
+  useEffect(() => {
+    if (submit && data) {
+      const user = data.user;
+      setUserWants(user.itemsTheyWant.map((item) => item.name));
+      
+      console.log(userWants)
+    }
+  }, [submit, data]);
 
   const handleUrlChange = (event) => {
     setInputUrl(event.target.value);
+    setSubmit(false);
   };
 
   const handleUrlSubmit = (event) => {
-
     event.preventDefault();
-    // You can use the inputUrl value for further processing
-    console.log('Submitted URL:', inputUrl);
-    // Add your logic for processing the URL here
+    const match = inputUrl.match(userIdPattern);
+    if (match) {
+      setUserId(match[1])
+      setSubmit(true);
+    }
   };
 
   return (
@@ -37,7 +67,7 @@ const App = () => {
       </form>
 
       {selectedRowData ? (
-        <DetailsItems changeTable={setSelectedRowData} tableData={capData[selectedRowData]?.items} />
+        <DetailsItems changeTable={setSelectedRowData} tableData={capData[selectedRowData]?.items} userWants={userWants}/>
       ) : (
         <TableCapsules changeTable={setSelectedRowData} tableData={capData} />
       )}
@@ -49,3 +79,15 @@ const App = () => {
   );
 };
 export default App;
+
+
+
+const GET_USER = gql`
+  query GetUser($id: ID!) {
+    user(id: $id) {
+      itemsTheyWant {
+        name
+      }
+    }
+  }
+`;
