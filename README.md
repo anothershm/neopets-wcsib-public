@@ -29,7 +29,6 @@ The frontend displays detailed data about currently available NC capsules in the
 ## 🧠 Why I Made This
 
 I started this project as a way to learn **React** through something fun, and to give a useful tool back to the Neopets community.  
-This frontend is written in **TypeScript** using **React 18**, and uses [Material React Table](https://www.material-react-table.com/) for clean sorting and layout.
 
 ---
 
@@ -55,6 +54,7 @@ This frontend is written in **TypeScript** using **React 18**, and uses [Materia
 git clone https://github.com/anothershm/neopets-wcsib-public.git
 cd neopets-wcsib-public/app
 npm install
-npm start```
+npm start
+```
 
 Then open your browser at http://localhost:3000.
