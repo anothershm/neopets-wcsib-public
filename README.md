@@ -1,16 +1,60 @@
 # What Capsule Should I Buy?
-Ever thought about making an investment in some capsules but were indecisive on which to buy? This project tries to tackle that.  
-It uses *selenium* to get the capsules and the current buyables from NC mall.   
-Then it uses *jellyneo* to get the items contained inside the capsules. It makes a call to *Dress To Impress* to check the seeking/offering for each item.   
-It uses *itemDB* to extract the images and the owls value.   
 
+Ever thought about investing in NC capsules but weren’t sure which ones were actually worth it?  
+This project tries to answer that by combining data from multiple sources and presenting it in a clean, sortable UI.
 
-## Jobs
-* nc-mall-script.py extracts all the capsules and buyables in nc mall currently and puts them in capsules_in_nc_mall.txt. Runs twice a month  
-* extract-info-capsules.py extracts the information needed for each capsule. If it's a new capsule it creates, if it is still collecting the items it updates them otherwise updates the numbers of seeking/offering. Runs weekly
+---
 
-## APP
-App made in react 18 to display the information extracted. Uses:
-* [Material React Table](https://www.material-react-table.com/) for the tables.
+## 📦 What It Does
 
-To run it locally first install the dependencies doing `npm install` inside /app and then do a `run npm start`
+The frontend displays detailed data about currently available NC capsules in the Neopets Mall, including:
+
+- 🎁 Items inside each capsule (via Jellyneo)
+- 💰 Estimated value (via itemDB)
+- 👗 Popularity and trading status (via Dress to Impress)
+
+---
+
+## 🔌 Data Source Overview
+
+> ⚠️ The backend service that gathers and processes this data is **private** for now. It scrapes and aggregates data from the following public-facing sources:
+
+- **Selenium + Neopets NC Mall**: To fetch available capsules and buyables
+- **Jellyneo**: To get item contents of each capsule
+- **Dress To Impress (DTI)**: To check seeking/offering activity
+- **itemDB**: To fetch item images and “Owls value”
+
+---
+
+## 🧠 Why I Made This
+
+I started this project as a way to learn **React** through something fun, and to give a useful tool back to the Neopets community.  
+This frontend is written in **TypeScript** using **React 18**, and uses [Material React Table](https://www.material-react-table.com/) for clean sorting and layout.
+
+---
+
+## 🚧 Work in Progress
+
+- 🔁 **Data is outdated**: The backend script stopped running, so updates are paused.
+- 🔗 **DTI integration (planned)**: A future feature to link your DTI account and mark items in your wishlist.
+- 🧹 Minor UI cleanup and polish still pending.
+
+---
+
+## 🛠 Tech Stack
+
+- React 18 + TypeScript
+- Material React Table
+- CSS Modules
+- LocalStorage (for simple persistence)
+
+---
+## 🖥️ Running the App Locally
+
+```bash
+git clone https://github.com/anothershm/neopets-wcsib-public.git
+cd neopets-wcsib-public/app
+npm install
+npm start```
+
+Then open your browser at http://localhost:3000.
